@@ -1,7 +1,7 @@
 <nav class="navbar navbar-dark fixed-top navbar-expand-lg bg-dark">
     <div class="container d-flex justify-content-between align-items-center">
         <a class="navbar-brand" href="#">
-            <img src="<?= get_template_directory_uri() . '/assets/img/logo-congresso.png' ?>" alt="" />
+            <img src="<?= get_template_directory_uri() . '/assets/img/2023/congresso01-selo.png' ?>" alt="" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -16,9 +16,6 @@
                 </li>
                 <li class="nav-item d-md-flex align-items-center">
                     <a class="nav-link" aria-current="page" href="#ingressos">Ingressos</a>
-                </li>
-                <li class="nav-item d-md-flex align-items-center">
-                    <a class="nav-link" aria-current="page" href="#palestrantes">Palestrantes</a>
                 </li>
                 <li class="nav-item d-md-flex align-items-center">
                     <a class="nav-link" aria-current="page" href="#congressos">Sobre</a>
