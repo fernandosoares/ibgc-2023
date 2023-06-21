@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "soaresdev-ibgc-2023",
+      "public": "build",
+      "ignore": ["**/.*"]
+    }
+  ]
+}

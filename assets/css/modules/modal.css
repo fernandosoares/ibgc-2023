@@ -1,0 +1,45 @@
+.close-modal {
+    position: absolute;
+    right: 5px;
+    top: 15px;
+    z-index: 1;
+    background-color: #fff;
+}
+
+.modal-dialog {
+    background: url(../../img/congresso-ibgc-background.png) no-repeat center;
+    background-size: contain
+}
+
+.modal-content {
+    background-color: transparent;
+    outline: none !important;
+    box-shadow: none;
+    border: none;
+    color: #fff;
+}
+
+.modal-content h2 {
+    font-weight: 700;
+    color: #dbd259;
+    font-size: 38px;
+}
+
+.modal-content p {
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.modal-content a {
+    color: #fff
+}
+
+@media screen and (max-width: 768px) {
+    .modal-content h2 {
+        font-size: 24px;
+    }
+
+    .modal-content p {
+        font-size: 20px;
+    }
+}

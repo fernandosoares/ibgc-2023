@@ -1,0 +1,20 @@
+#duvidas {
+    margin-top: 80px;
+    background-color: #e5e5e5;
+    padding: 35px 0;
+    font-size: 24px;
+}
+
+#duvidas .duvida {
+    font-weight: 500;
+}
+
+#duvidas img {
+    margin: 0 25px 0 0;
+}
+
+#duvidas a {
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+}

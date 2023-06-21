@@ -1,0 +1,101 @@
+#home {
+    background: url(../../img/head-banner-congresso.png);
+    background-repeat: no-repeat;
+    min-height: 864px;
+    color: #fff;
+}
+
+#home .row.hero-row {
+    padding-top: 220px;
+}
+
+#home .row.hero-row h1 {
+    font-weight: 600;
+    font-size: 88px;
+    margin: 0;
+    padding: 0;
+}
+
+#home .row.hero-row h2 {
+    font-weight: 200;
+    font-size: 56px;
+    margin: 0;
+    padding: 0;
+}
+
+#home .row.hero-row .event-info {
+    font-weight: 600;
+    color: #dbd259;
+    font-size: 33px;
+    margin: 55px 0 80px 0;
+}
+#home .row.hero-row .event-info .date {
+    margin-right: 60px;
+}
+
+#home .row.hero-row .event-info .date p,
+#home .row.hero-row .event-info .location p {
+    margin: 0 0 0 15px;
+    padding: 0;
+}
+
+#home .row.hero-row .sobre {
+    /* box-shadow: 0 0 3px #868686; */
+    background-color: #fff;
+    color: #000;
+    padding: 50px;
+}
+
+#home .row.hero-row .sobre h2 { 
+    font-weight: 700;
+    font-size: 44px;
+    margin: 0 0 50px 0;
+}
+
+#home .row.hero-row .sobre p { 
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 34px;
+}
+
+#home .row.hero-row .sobre a { 
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    color: #1e47b3;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    #home .row.hero-row {
+        padding-top: 130px !important;
+    }
+
+    #home .row.hero-row h1 {
+        font-size: 54px;
+        line-height: 54px;
+    }
+    #home .row.hero-row h2 {
+        font-size: 32px;
+    }
+
+    #home .row.hero-row .event-info {
+        font-size: 22px;
+        display: block !important;
+        margin: 50px 0;
+    }
+
+    #home .row.hero-row .event-info .date {
+        margin: 0 0 15px 0;
+    }
+
+    #home .row.hero-row .sobre h2 { 
+        font-size: 26px;    
+    }
+
+    #home .row.hero-row .sobre p,
+    #home .row.hero-row .sobre a { 
+        font-size: 18px;
+        line-height: 22px;
+    }
+}

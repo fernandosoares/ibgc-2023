@@ -1,0 +1,243 @@
+#ingressos {
+    background-color: #05030f;
+}
+
+#ingressos h2 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 42px;
+    margin: 80px 0 0 0
+}
+#ingressos h2.second {
+    margin: 80px 0;
+}
+
+#ingressos .stages td {
+    background-color: transparent;
+    padding-left: 0;
+}
+
+#ingressos .stages thead tr th {
+    background-color: transparent !important;
+    padding-bottom: 0 !important;
+}
+
+#ingressos .stages thead tr th .table-ticket-type {
+    position: relative;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    height: 130px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#ingressos .stages thead tr th .table-ticket-type.on-person {
+    background-color: #1e47b3;
+}
+
+#ingressos .stages thead tr th .table-ticket-type.on-line {
+    background-color: #a8489a;
+}
+
+#ingressos .stages thead tr th .table-ticket-type.meeting {
+    background-color: #3f9c54;
+}
+
+#ingressos .stages thead tr th .table-ticket-type small {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 2px 0 3px 0;
+    background-color: rgba(255,255,255,.2);
+    font-size: 16px;
+}
+
+#ingressos .stages tbody {
+    border-top: none;
+}
+
+
+#ingressos .ticket-info tr:nth-child(even) {
+    background-color: #0b0a1e;
+}
+
+#ingressos .ticket-info tr, 
+#ingressos .ticket-info td,
+#ingressos .ticket-info th {
+    border: none;
+}
+
+#ingressos .ticket-info td,
+#ingressos .ticket-info th {
+    font-size: 18px;
+}
+
+#ingressos .ticket-info.one {
+    font-weight: 400;
+    color: #fff;
+}
+
+#ingressos .ticket-info.one p {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#ingressos .ticket-info.one p span {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#ingressos .ticket-type {
+    background-color: #fff;
+    border-radius: 25px;
+    position: relative;
+    margin: 0 15px;
+}
+
+#ingressos .ticket-type h3 {
+    padding: 15px 0 50px 115px;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 38px;
+}
+
+#ingressos .ticket-type.on-line h3,
+#ingressos .ticket-type.presencial h3 {
+   padding-bottom: 88px;
+}
+
+#ingressos .ticket-type .holder {
+    position: relative;
+}
+
+#ingressos .ticket-type .holder small {
+    position: absolute;
+    left: 116px;
+    bottom: 0px;
+    font-size: 20px;
+    line-height: 22px;
+    color: #3f9c54
+}
+
+#ingressos .ticket-type .flag {
+    position: absolute;
+    width: 138px;
+    height: 109px;
+    top: 10px;
+    left: -29px;
+}
+
+#ingressos .ticket-type.presencial .flag {
+    background: url(../../img/flag-presencial.png) no-repeat;
+}
+
+#ingressos .ticket-type.on-line .flag {
+    background: url(../../img/flag-on-line.png) no-repeat;
+}
+
+#ingressos .ticket-type.meeting .flag {
+    background: url(../../img/flag-meeting.png) no-repeat;
+}
+
+
+#ingressos .ticket-type.presencial h3 {
+    color: #1e47b3
+}
+
+#ingressos .ticket-type.on-line h3 {
+    color: #a8489a
+}
+
+#ingressos .ticket-type.meeting h3 {
+    color: #3f9c54
+}
+
+
+#ingressos .ticket-type ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#ingressos .ticket-type ul li {
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+
+#ingressos .ticket-type.presencial ul li,
+#ingressos .ticket-type.on-line ul li,
+#ingressos .ticket-type.meeting ul li {
+    background-image: url(../../img/check-disabled.png);
+    background-repeat: no-repeat;
+    background-position: 15px 15px;
+    padding: 12px 0 12px 70px;
+    color: #b3b3b3;
+}
+
+#ingressos .ticket-type.presencial ul li.enabled {
+    background-image: url(../../img/check-presencial.png);
+    color: #000;
+}
+
+#ingressos .ticket-type.on-line ul li.enabled {
+    background-image: url(../../img/check-on-line.png);
+    color: #000;
+}
+
+#ingressos .ticket-type.meeting ul li.enabled {
+    background-image: url(../../img/check-meeting.png);
+    color: #000;
+}
+
+#ingressos .ticket-type ul li:nth-child(odd) {
+    background-color: #e5e5e5;    
+}
+
+#ingressos .inscricao-corporativa {
+    margin: 45px auto;
+}
+
+#ingressos .inscricao-corporativa a {
+    border-radius: 50px;
+    border: solid 2px #dbd259;
+    padding: 10px 20px 13px 20px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#ingressos td.buy-buttons {
+    border: none;
+}
+
+#ingressos td.buy-buttons table,
+#ingressos td.buy-buttons table tbody tr td {
+    border: none;
+    color: #fff
+}
+
+#ingressos td.buy-buttons a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 25px 10px 25px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 30px;
+}
+
+#ingressos td.buy-buttons a.presencial {
+    background-color: #1e47b3;
+}
+#ingressos td.buy-buttons a.on-line {
+    background-color: #a8489a;
+}
+#ingressos td.buy-buttons a.meeting {
+    background-color: #3f9c54;
+}

@@ -1,0 +1,14 @@
+#cta-bottom {
+    background-color: #e5e5e5;
+    padding: 50px 0;
+}
+
+#cta-bottom a {
+    font-weight: 600;
+    font-size: 28px;
+    border: solid 3px #3f9c54;
+    border-radius: 30px;
+    color: #000;
+    padding: 7px 25px 10px;
+    text-decoration: none;
+}

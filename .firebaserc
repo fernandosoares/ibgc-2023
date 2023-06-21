@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "soares-dev-environment"
+  },
+  "targets": {
+    "soares-dev-environment": {
+      "hosting": {
+        "soaresdev-ibgc-2023": [
+          "soaresdev-ibgc-2023"
+        ]
+      }
+    }
+  }
+}

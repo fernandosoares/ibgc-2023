@@ -1,0 +1,115 @@
+#programacao {
+    padding: 160px 0;
+    color: #000;
+}
+
+#programacao h2 {
+    font-weight: 700;
+    font-size: 48px;
+}
+
+#programacao p {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#programacao .item:nth-child(even) {
+    background: #3F3F3F;
+    padding: .5rem 0;
+}
+
+#programacao .accordion {}
+
+.accordion-button::after,
+.accordion-button:not(.collapsed)::after {
+    filter: invert(0%) sepia(0%) saturate(0%);
+}
+
+#programacao .accordion-body {
+    color: #fff;
+    background-color: #0b0a1e;
+    padding: 1rem 0;
+}
+
+#programacao .accordion-button {
+    background-color: #0b0a1e;
+    color: #f5f5f5;
+}
+
+
+#programacao .accordion h2 p {
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+}
+
+#programacao .accordion .item .check {
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+    background-image: url(../../img/check-disabled.png);
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    padding: 12px 0;
+    margin: 0 3px;
+}
+
+#programacao .accordion .titulo p {
+    margin-right: 15px;
+}
+
+#programacao .accordion .titulo .check {
+    margin: 0 3px;
+    background-size: contain;
+    background-position: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+#programacao .accordion .item {
+    font-size: 18px;
+    margin: 0 0 10px 0;
+}
+
+#programacao .accordion .item .hour {
+    font-size: 22px;
+}
+
+#programacao .accordion .item .check.presencial {
+    background-image: url(../../img/check-presencial.png);
+}
+
+#programacao .accordion .item .check.on {
+    background-image: url(../../img/check-on-line.png);
+}
+
+#programacao .accordion .item .check.encontros {
+    background-image: url(../../img/check-meeting.png);
+}
+
+#programacao .tipos p {
+    margin: 0 30px 0 0;
+    color: #dbd259;
+    font-weight: 600;
+}
+
+#programacao .tipo {
+    margin: 0 10px 0 0;
+    height: 80px;
+    padding: 0 20px;
+    border-radius: 10px;
+}
+
+#programacao .tipo.presencial {
+    background-color: #1e47b3;
+}
+
+#programacao .tipo.on {
+    background-color: #a8489a;
+}
+
+#programacao .tipo.encontros {
+    background-color: #3f9c54;
+}
