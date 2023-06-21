@@ -45,7 +45,7 @@ lando wp config create --dbname=wordpress --dbuser=wordpress --dbpass=wordpress 
 Instalando o WP com as configurações para o Lando
 
 ```bash
-lando wp core install --url=https://ibgc-congresso.lndo.site --title="Congresso | IBGC" --admin_user=admin --admin_password=admin --admin_email=admin@lndol.site
+lando wp core install --url=https://ibgc-congresso.lndo.site --title="Congresso | IBGC" --admin_user=admin --admin_password=admin --admin_email=admin@lndo.site
 ```
 
 Agora os plugins necessários para gerar o conteúdo dinânico e exporta-lo de maneira estática a partir do Wordpress
