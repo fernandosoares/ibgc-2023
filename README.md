@@ -45,7 +45,7 @@ lando wp config create --dbname=wordpress --dbuser=wordpress --dbpass=wordpress 
 Instalando o WP com as configurações para o Lando
 
 ```bash
-lando wp core install --url=https://ibgc-congresso.lndo.site --title="Congresso | IBGC" --admin_user=admin --admin_password=admin --admin_email=admin@lndo.site
+lando wp core install --url=https://ibgc-congresso-2023.lndo.site --title="Congresso | IBGC 2023" --admin_user=admin --admin_password=admin --admin_email=admin@lndo.site
 ```
 
 Agora os plugins necessários para gerar o conteúdo dinânico e exporta-lo de maneira estática a partir do Wordpress
@@ -57,7 +57,7 @@ lando wp plugin install classic-editor simply-static --activate
 Navegue ao diretório de temas (/wp-content/themes) e clone o projeto:
 
 ```bash
-  git clone https://github.com/fernandosoares/ibgc-2023
+git clone https://github.com/fernandosoares/ibgc-2023
 ```
 
 Logo em seguida, acesse o endereço do projeto no navegador e configure, caso necessário:
