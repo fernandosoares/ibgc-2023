@@ -1,9 +1,21 @@
 #programacao {
-    padding: 160px 0;
-    color: #000;
+    padding: 65px 0;
+    color: #fff;
+    background-color: #262222;
 }
 
-#programacao h2 {
+#programacao .cta-corporativa {
+    background-color: #dbd259;
+    color: #000;
+    font-size: 28px;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 5px 15px 9px;
+    line-height: 5px;
+    margin-top: 40px;
+}
+
+/* #programacao h2 {
     font-weight: 700;
     font-size: 48px;
 }
@@ -112,4 +124,4 @@
 
 #programacao .tipo.encontros {
     background-color: #3f9c54;
-}
+} */
