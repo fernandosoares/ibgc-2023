@@ -49,3 +49,32 @@ function isBeforeEventStart()
 
     return false;
 }
+
+function ibgc_get_speakers()
+{
+    return [
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/cristine.png',
+            'name' => 'Cristine Grings Nogueira',
+            'position' => 'CEO na Picadilly Company',
+            'linkedin' => 'https://br.linkedin.com/in/cristine-grings-nogueira-005a93170'
+        ],
+    ];
+}
+
+function ibgc_build_speaker($picture, $name, $position, $linkedin)
+{
+
+    return <<<HTML
+        <div class="palestrante">
+            <img src="{$picture}" alt="{$name}" />
+            <div class="info">
+                <h3>{$name}</h3>
+                <p>{$position}</p>
+            </div>
+            <a class="linkedin-button" href="{$linkedin}" target="_blank">
+                <p>Conectar</p>
+            </a>
+        </div>
+    HTML;
+}

@@ -113,6 +113,14 @@
     font-weight: 400;
 }
 
+#event-description .azul {
+    background-color: #119fa8;
+}
+
+#event-description .amerelo {
+    background-color: #dbd259;
+}
+
 #event-description .information .desc {
     padding-top: 60px;
     padding-bottom: 60px;
