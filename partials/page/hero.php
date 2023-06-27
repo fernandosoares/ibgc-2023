@@ -3,27 +3,35 @@
         <div class="row hero-row">
             <div class="col-12">
                 <div class="heading">
-                    <h1>Governança de impacto</h1>
-                    <h2>As melhores práticas do amanhã</h2>
+                    <h1><span>Governança em rede:</span><br>Conectando steakeholders</h1>
                 </div>
-                <div class="event-info d-flex">
-                    <div class="date d-flex align-items-center">
-                        <img src="<?= get_template_directory_uri() . '/assets/img/calendario.png' ?>" alt="" />
-                        <p>09 e 10 nov</p>
-                    </div>
-                    <div class="location d-flex align-items-center">
-                        <img src="<?= get_template_directory_uri() . '/assets/img/pin.png' ?>" alt="" />
-                        <p>Golden Hall, WTC | São Paulo – SP</p>
-                    </div>
-                </div>
-                <div class="sobre">
-                    <h2>As melhores práticas de governança do amanhã começam agora</h2>
-                    <p>É sempre tempo de aprender, mas há momentos decisivos em que precisamos agir. Por isso, o 23º Congresso discutirá a Governança de impacto. Quais são as melhores práticas do amanhã e como elas se conectam aos temas urgentes e decisivos de hoje?</p>
-                    <p>O Congresso desse ano será especial. Retomamos o formato presencial com dois dias de conteúdo pujante, trocas de experiências e muito networking. E tem mais: teremos sessões de discussão sobre o <a href="#">Código das Melhores Práticas de Governança Corporativa</a>, que passará por um processo de revisão. Quer ainda mais? Se você é conselheiro, programe-se para as sessões exclusivas do Encontro de Conselheiros.</p>
-                    <p>Se não puder estar conosco presencialmente, o ingresso on-line é para você. O importante é não ficar de fora!</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="event-description">
+    <div class="container information">
+        <div class="row">
+            <div class="col-12 col-md-8 desc">
+                <p>Em um mundo globalizado e hiper conectado, a inteligência e ação coletivas tornam-se condições indispensáveis para a perenidade de uma
+                    organização. E, para isso, os agentes de governança precisam ampliar o seu olhar para todas as partes interessadas.</p>
+                <p>Neste cenário, as organizações estão potencializando as conexões com seus stakeholders para alcançarem esses objetivos?
+                    E você, como agente de governança, tem incorporado esse olhar estratégico em sua atuação?</p>
+                <p><span>Governança em rede: Conectando stakeholders</span> será o tema principal do 24º Congresso IBGC, nos dias 17 e 18 de outubro de 2023, em formato híbrido. </p>
+                <p>Vamos refletir e agir juntos!</p>
+            </div>
+            <div class="col-12 col-md-4 dates">
+                <p class="date">17 e 18 de outubro de 2023</p>
+                <div class="address">
+                    <p class="location__line_1">WTC Events Center | SP</p>
+                    <p class="location__line_2">Av.das Nações Unidas, 12551 Brooklin Novo, São Paulo - SP 04578-903</p>
                 </div>
             </div>
         </div>
     </div>
 
+    </div>
+    </div>
 </section>
