@@ -1,8 +1,8 @@
 #duvidas {
-    margin-top: 80px;
-    background-color: #e5e5e5;
-    padding: 35px 0;
+    background-color: #119fa8;
+    padding: 15px 0;
     font-size: 24px;
+    color: #fff;
 }
 
 #duvidas .duvida {
@@ -14,7 +14,7 @@
 }
 
 #duvidas a {
-    color: #000;
+    color: #fff;
     text-decoration: none;
     font-weight: 500;
 }

@@ -43,16 +43,18 @@
 
 #palestrantes .palestrante a.linkedin-button {
     text-decoration: none;
-    background: url(../../img/2023/linkedin.png) no-repeat left;
-    background-position: 3px;
+    
     display: block;
 }
 
 #palestrantes .palestrante a.linkedin-button p {
+    background: url(../../img/2023/linkedin.png) no-repeat left;
+    background-position: 5px 50%;
     font-size: 32px;
     color: #1e47b3;
     border: solid 1px #1e47b3;
-    border-radius: 46px;
+    border-radius: 28px;
+    padding: 0 0 5px;
     margin: 0;
 }
 
