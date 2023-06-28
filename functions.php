@@ -59,6 +59,36 @@ function ibgc_get_speakers()
             'position' => 'CEO na Picadilly Company',
             'linkedin' => 'https://br.linkedin.com/in/cristine-grings-nogueira-005a93170'
         ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/edgard.png',
+            'name' => 'Edgard Gouveia Júnior',
+            'position' => 'Presidente da Epic Journey e fundador da Livelab',
+            'linkedin' => 'https://www.linkedin.com/in/edgardgouveiajr/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/estevan.png',
+            'name' => 'Estevan Sartoreli',
+            'position' => 'Cofundador e Co-CEO na Dengo Chocolates',
+            'linkedin' => 'https://br.linkedin.com/in/estevansartoreli'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/juliana.png',
+            'name' => 'Juliana Rozenbaum',
+            'position' => 'Conselheira na Lojas Renner, Dexco, EDP Brasil, Eurofarma e Cogna Educação',
+            'linkedin' => 'https://www.linkedin.com/in/juliana-rozenbaum-031644a'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/ricardo.png',
+            'name' => 'Ricardo Young',
+            'position' => 'Empresário, consultor de sustentabilidade e sócio-diretor da CT&I Brasil e da Byocoin',
+            'linkedin' => 'https://br.linkedin.com/in/ricardo-young-22857911'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/vicky.png',
+            'name' => 'Vicky Bloch',
+            'position' => 'Sócia-diretora na Vichy Bloch Associados',
+            'linkedin' => 'https://br.linkedin.com/in/vicky-bloch-2a66b44/pt'
+        ],
     ];
 }
 
@@ -77,4 +107,130 @@ function ibgc_build_speaker($picture, $name, $position, $linkedin)
             </a>
         </div>
     HTML;
+}
+
+function ibgc_get_past_event_videos()
+{
+    return [
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=yACCZtb72MY&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=1&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=wxyWrroLs7I&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=2&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=TZhVp1TPS6s&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=3&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=_ZA_YuuhPzY&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=4&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=ZNiHemwjoEk&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=5&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=WdkMwppT2tc&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=6&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=UvHoyfbF4ZQ&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=7&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=avpaq0JkKAs&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=8&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=UG5A_SHmH4A&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=9&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=ckLQrXFtIeY&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=10&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=WddQEn0QVJ0&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=11&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=HNQRM-GX0ZY&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=12&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=-Zt44MdJbFQ&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=13&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=B-skiesjUsA&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=14&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=VbLt6ztj1XA&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=15&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=JzF-sY_OdsI&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=16&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=Caci9Jm_KFY&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=17&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=7LIOagiTGRE&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=18&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=zr3_NuYg5b0&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=19&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=9GzSKikxet4&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=20&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=f9w-IgmTMW0&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=21&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=3Cm5PCo0zsQ&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=22&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=Q_VSO2pHryQ&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=23&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=uimD9lXhka4&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=24&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=Alp5Z_bSfn4&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=25&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=v7yXGyBDaAA&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=26&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=waNvJ640gRo&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=27&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=3tnT1DdVnRs&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=28&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=Jc6ScQi20Gs&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=29&pp=iAQB"
+        ],
+        [
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/bg-video.jpg",
+            "url" => "https://www.youtube.com/watch?v=sZj4oUe5r8A&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=30&pp=iAQB"
+        ],
+    ];
 }

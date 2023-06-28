@@ -26,24 +26,26 @@
     flex-direction: column;
     justify-content: space-around;
     min-height: 500px;
-    padding: 25px 15px 0;
-;
+    padding: 25px 0 0;
+    max-width: 340px;
 }
 
 #palestrantes .palestrante .info {
     max-width: 380px;
+    padding: 0 15px;
+    min-height: 190px;
 }
 
 #palestrantes .palestrante.slick-slide img {
     display: block;
     margin: 0 auto;
     width: 50%;
+    max-width: 160px;
 }
 
 
 #palestrantes .palestrante a.linkedin-button {
     text-decoration: none;
-    
     display: block;
 }
 
@@ -55,7 +57,8 @@
     border: solid 1px #1e47b3;
     border-radius: 28px;
     padding: 0 0 5px;
-    margin: 0;
+    margin: 0 15px;
+
 }
 
 
@@ -69,5 +72,5 @@
 #palestrantes .palestrante .info p {
     color: #000;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 22px;
 }

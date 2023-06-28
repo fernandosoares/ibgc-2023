@@ -1,58 +1,22 @@
 #congressos {
     margin-top: 80px;
+    background: url(../../img/2023/14-fundo-video.png) no-repeat top;
+    background-size: contain;
+    background-color: #262222;
+    min-height: 860px;
+    color: #fff;
 }
 
 #congressos h2 {
     font-size: 44px;
     font-weight: 700;
+    margin-top: 100px;
 }
 
 #congressos p {
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 400;
 }
-
-#congressos .timeline {
-    position: relative;
-    height: 10px;
-    background-color: #dbd259;
+#congressos p.m {
     margin-top: 140px;
-}
-
-
-#congressos .timeline .left {
-    position: absolute;
-    top: -45px;
-    left: 40px;
-}
-
-#congressos a {
-    color: #000;
-    text-decoration: none;
-}
-
-#congressos .timeline .right {
-    position: absolute;
-    top: -45px;
-    right: 40px;
-}
-
-#congressos .timeline .left .numero,
-#congressos .timeline .right .numero {
-    border-radius: 50%;
-    border: solid 3px #dbd259;
-    background-color: #fff;
-    font-weight: 700;
-    font-size: 44px;
-    width: 100px;
-    height: 100px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#congressos .timeline .left p,
-#congressos .timeline .right p {
-    margin-top: 20px;
 }
