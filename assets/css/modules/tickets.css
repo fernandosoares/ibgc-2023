@@ -68,6 +68,18 @@
     background-color: #2018a4;
 }
 
+#ingressos table .in.head {
+    background-color: #0d777e;
+    background: url(../../img/2023/11-presencial.png) no-repeat top center;
+    background-size: cover;
+}
+
+#ingressos table .on.head {
+    background-color: #2018a4;
+    background: url(../../img/2023/12-online.png) no-repeat top center;
+    background-size: cover;
+}
+
 #ingressos table .in.sep,
 #ingressos table .on.sep {
     height: 110px;

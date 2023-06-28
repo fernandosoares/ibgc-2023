@@ -21,7 +21,7 @@
                     <a class="nav-link" aria-current="page" href="#congressos">Sobre</a>
                 </li>
                 <li class="nav-item d-md-flex align-items-center">
-                    <a class="nav-link" target="_blank" aria-current="page" href="https://www.sympla.com.br/ibgc-23-congress__1648714" data-bs-toggle="tooltip" data-bs-placement="bottom" title="For foreign registration, please click here to be directed to an exclusive page to complete the registration process. If you have your CPF card, you can purchase your ticket by clicking on the 'Inscreva-se' button.">
+                    <a class="nav-link" target="_blank" aria-current="page" href="https://www.sympla.com.br/evento/ibgc-24-conference-network-governance-connecting-stakeholders/2042376" data-bs-toggle="tooltip" data-bs-placement="bottom" title="For foreign registration, please click here to be directed to an exclusive page to complete the registration process. If you have your CPF card, you can purchase your ticket by clicking on the 'Inscreva-se' button.">
                         <img src="<?= get_template_directory_uri() . '/assets/img/usa.png' ?>" width="32" alt="USA" />
                     </a>
                 </li>

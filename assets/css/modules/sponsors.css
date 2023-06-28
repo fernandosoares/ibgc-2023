@@ -11,25 +11,25 @@
 }
 
 #patrocinadores .sponsor.master {
-    background: url(../../img/2023/bg-bronze.png) no-repeat left;
+    background: url(../../img/2023/master.png) no-repeat left;
     background-color: #e5e5e5;
     background-size: contain;
 }
 
 #patrocinadores .sponsor.prata {
-    background: url(../../img/2023/bg-prata.png) no-repeat left;
+    background: url(../../img/2023/prata.png) no-repeat left;
 
     background-size: contain;
 }
 
 #patrocinadores .sponsor.bronze {
-    background: url(../../img/2023/bg-bronze.png) no-repeat left;
+    background: url(../../img/2023/bronze.png) no-repeat left;
     background-color: #e5e5e5;
     background-size: contain;
 }
 
 #patrocinadores .sponsor.plus {
-    background: url(../../img/2023/bg-plus.png) no-repeat left;
+    background: url(../../img/2023/plus.png) no-repeat left;
     background-size: contain;
 }
 
@@ -41,6 +41,5 @@
     border-radius: 25px;
     padding: 7px 25px 9px;
     line-height: 5px;
-    margin-top: 40px;
     font-weight: 600;
 }

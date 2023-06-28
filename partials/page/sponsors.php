@@ -35,11 +35,12 @@
         <div class="row">
             <div class="col-12 d-flex align-items-center justify-content-center">
                 <img src="<?= get_template_directory_uri() . '/assets/img/2023/plus-embraer.png' ?>" alt="">
+                <img src="<?= get_template_directory_uri() . '/assets/img/2023/plus-exec.png' ?>" alt="">
             </div>
         </div>
     </div>
 
-    <div class="container">
+    <div class="container my-5">
         <div class="row">
             <div class="col-12 text-center">
                 <a href="#" class="quero-patrocinar">Quero patrocinar o congresso</a>
