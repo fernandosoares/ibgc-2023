@@ -1,13 +1,153 @@
-#ingressos {
-    background-color: #05030f;
+ #ingressos {
+    background-color: #fff;
+    padding: 75px 0
 }
 
 #ingressos h2 {
-    color: #fff;
+    color: #000;
     font-weight: 700;
     font-size: 42px;
-    margin: 80px 0 0 0
+    margin: 40px 0 0 0
 }
+
+#ingressos table thead th {
+    padding: 0;
+}
+
+#ingressos table thead th h3,
+#ingressos table tbody tr td h3 {
+    font-size: 32px;
+    color: #119fa8;
+    font-weight: 600;
+    margin-top: 63px;
+}
+
+#ingressos table thead th:nth-child(1) {
+    width: 60%;
+}
+#ingressos table thead th:nth-child(2),
+#ingressos table thead th:nth-child(3) {
+    width: 20%;
+}
+
+#ingressos table thead th div {
+    width: 90%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    color: #fff;
+    font-weight: 600;
+    font-size: 32px;
+    height: 120px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding-top: 10px;
+}
+
+#ingressos table tbody tr td p {
+    font-weight: 400;
+    font-size: 22px;
+    margin: 0;
+    padding: 10px 0;
+}
+
+#ingressos table tbody tr td div {
+    width: 90%;
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#ingressos table .in {
+    background-color: #0d777e;
+}
+
+#ingressos table .on {
+    background-color: #2018a4;
+}
+
+#ingressos table .in.sep,
+#ingressos table .on.sep {
+    height: 110px;
+}
+
+#ingressos table tbody {
+    border-top: solid 2px #b3b3b3;
+}
+
+#ingressos table tbody tr td {
+    padding: 0;
+}
+
+#ingressos table tbody tr:last-child {
+    border-bottom-width: 0;
+}
+
+#ingressos table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+#ingressos table tbody tr:last-child td a {
+    text-decoration: none;
+    color: #fff;
+    border-radius: 25px;
+    padding: 7px 20px 9px;
+    margin: 30px 0 10px;
+    display: inline-block;
+}
+
+#ingressos table tbody tr:last-child td a.buy-in {
+    background-color: #119fa8;
+}
+#ingressos table tbody tr:last-child td a.buy-on {
+    background-color: #1e47b3;
+}
+
+#ingressos table tbody tr:last-child td div {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+/*
+
+#ingressos table thead th.price-type {
+    color: #fff;
+}
+
+
+
+#ingressos table thead th.price-type div {
+    font-weight: 400;
+    font-size: 32px;
+    height: 120px;
+    margin-bottom: 0 !important;
+    width: 90%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding-top: 20px;
+}
+
+#ingressos table thead th.price-type div.in,
+#ingressos table tbody tr td.bg-in {
+    background-color: #0d777e;
+}
+
+#ingressos table thead th.price-type div.on-line,
+#ingressos table tbody tr td.bg-on {
+    background-color: #2018a4;
+}
+
+#ingressos table tbody tr td {
+    padding-left: 0 !important;
+}
+
+ #ingressos table tbody tr td.bg-in{
+    padding-left: 0 !important;
+} */
+
+/*
 #ingressos h2.second {
     margin: 80px 0;
 }
@@ -24,20 +164,20 @@
 
 #ingressos .stages thead tr th .table-ticket-type {
     position: relative;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 20px;
-    height: 130px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 32px;
+    height: 100px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
 
 #ingressos .stages thead tr th .table-ticket-type.on-person {
-    background-color: #1e47b3;
+    background-color: #0d777e;
 }
 
 #ingressos .stages thead tr th .table-ticket-type.on-line {
-    background-color: #a8489a;
+    background-color: #2018a4;
 }
 
 #ingressos .stages thead tr th .table-ticket-type.meeting {
@@ -59,7 +199,7 @@
 
 
 #ingressos .ticket-info tr:nth-child(even) {
-    background-color: #0b0a1e;
+     background-color: #0b0a1e;
 }
 
 #ingressos .ticket-info tr, 
@@ -75,7 +215,7 @@
 
 #ingressos .ticket-info.one {
     font-weight: 400;
-    color: #fff;
+    color: #000;
 }
 
 #ingressos .ticket-info.one p {
@@ -196,7 +336,7 @@
 }
 
 #ingressos .ticket-type ul li:nth-child(odd) {
-    background-color: #e5e5e5;    
+    background-color: #e5e5e5;
 }
 
 #ingressos .inscricao-corporativa {
