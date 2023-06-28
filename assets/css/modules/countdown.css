@@ -1,6 +1,6 @@
 #contador {
-    background-color: #dbd259;
-    color: #000;
+    background-color: #119fa8;
+    color: #fff;
     padding: 5px 0;
     font-weight: 400;
     position: fixed;
@@ -28,10 +28,18 @@
     align-items: center;
 }
 
+#contador p.day,
+#contador p.hour,
+#contador p.minutes,
+#contador p.seconds {
+    color: #1c52b1
+}
+
 #contador p span {
     font-size: 16px;
     display: inline-flex;
     margin: 0 10px;
+    color: #fff;
 }
 
 #contador .share a {
@@ -45,7 +53,7 @@
 #contador .share a.inscreva {
     text-decoration: none;
     color: #000;
-    background-color: #fff;
+    background-color: #dbd259;
     font-size: 18px;
     border-radius: 25px;
     padding: 5px 20px 7px;
