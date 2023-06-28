@@ -12,14 +12,12 @@ section {
     scroll-margin-top: 139px;
 }
 
-#congressos .slick-prev:before, .slick-next:before,
-#congressos .slick-prev:before, .slick-prev:before {
+#congressos .slick-prev:before, #congressos .slick-next:before {
     color: #fff !important;
     font-size: 42px;
 }
 
-#palestrantes .slick-prev:before, .slick-next:before,
-#palestrantes .slick-prev:before, .slick-prev:before {
+#palestrantes .slick-prev:before, #palestrantes .slick-next:before {
     color: #000 !important;
     font-size: 42px;
 }

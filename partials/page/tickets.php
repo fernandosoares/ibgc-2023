@@ -1,6 +1,16 @@
 <section id="ingressos">
     <div class="container">
 
+        <div class="row mb-5">
+            <h2 class="text-center mb-5">Tipos de ingresso</h2>
+            <div class="col-12 col-md-6 text-center">
+                <img src="<?= get_template_directory_uri() . '/assets/img/2023/congresso-presencial' ?>" alt="" />
+            </div>
+            <div class="col-12 col-md-6 text-center">
+                <img src="<?= get_template_directory_uri() . '/assets/img/2023/congresso-online' ?>" alt="" />
+            </div>
+        </div>
+
         <div class="row">
             <div class="col-12">
                 <h2>Escolha seu ingresso</h2>
@@ -145,12 +155,12 @@
                                 <td></td>
                                 <td>
                                     <div class="in">
-                                        <a href="#" class="buy-in">Comprar</a>
+                                        <a href="https://ibgc.org.br/inscricao/evento/40d039e4-b40b-ee11-8f6d-002248e0d695" target="_blank" class="buy-in">Comprar</a>
                                     </div>
                                 </td>
                                 <td>
                                     <div class="on">
-                                        <a href="#" class="buy-on">Comprar</a>
+                                        <a href="https://ibgc.org.br/inscricao/evento/f5efdb97-b60b-ee11-8f6d-002248e0d695" target="_blank" class="buy-on">Comprar</a>
                                     </div>
                                 </td>
                             </tr>

@@ -12,11 +12,6 @@
     margin: 0 15px;
 }
 
-.slick-prev:before,
-.slick-next:before {
-    color: #000;
-}
-
 #palestrantes .palestrante {
     border-radius: 30px;
     background: url(../../img/2023/bg-palestrante.png) no-repeat top;
@@ -64,10 +59,13 @@
     color: #000;
     font-weight: 600;
     font-size: 32px;
+    line-height: 32px;
+    margin-bottom: 16px;
 }
 
 #palestrantes .palestrante .info p {
     color: #000;
     font-weight: 400;
     font-size: 22px;
+    line-height: 28px;
 }

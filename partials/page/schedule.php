@@ -6,7 +6,7 @@
                 <div class="mb-5">
                     <!-- <small class="d-block mb-0">*Programação sujeita a alterações</small>
                     <small>**Melhor visualizado via Desktop</small> -->
-                    <h5>Em breve...</h5>
+                    <h5 class="text-center">Em breve...</h5>
                 </div>
             </div>
             <div class="col-12 text-center">
