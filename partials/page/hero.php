@@ -12,9 +12,9 @@
 
 
 <section id="event-description">
-    <div class="container information">
+    <div class="container-fluid information">
         <div class="row">
-            <div class="col-12 col-md-8 desc">
+            <div class="col-12 col-md-8 desc" style="padding-left: 16%;">
                 <p>Em um mundo globalizado e hiper conectado, a inteligência e ação coletivas tornam-se condições indispensáveis para a perenidade de uma
                     organização. E, para isso, os agentes de governança precisam ampliar o seu olhar para todas as partes interessadas.</p>
                 <p>Neste cenário, as organizações estão potencializando as conexões com seus stakeholders para alcançarem esses objetivos?
@@ -22,7 +22,7 @@
                 <p><span>Governança em rede: Conectando stakeholders</span> será o tema principal do 24º Congresso IBGC, nos dias 17 e 18 de outubro de 2023, em formato híbrido. </p>
                 <p>Vamos refletir e agir juntos!</p>
             </div>
-            <div class="col-12 col-md-4 dates">
+            <div class="col-12 col-md-4 dates" style="padding-right: 12%;">
                 <p class="date">17 e 18 de outubro de 2023</p>
                 <div class="address">
                     <p class="location__line_1">WTC Events Center | SP</p>
