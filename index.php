@@ -15,8 +15,9 @@
     <?php require_once 'partials/page/contact.php'; ?>
     <?php require_once 'partials/page/sponsors.php'; ?>
     <!-- <?php require_once 'partials/page/cta.php'; ?> -->
-    <?php require_once 'partials/page/countdown.php'; ?>
+    <!-- <?php require_once 'partials/page/credits.php'; ?> -->
     <?php require_once 'partials/page/footer.php'; ?>
+    <?php require_once 'partials/page/countdown.php'; ?>
 
     <?php wp_footer(); ?>
 </body>

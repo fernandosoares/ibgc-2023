@@ -130,7 +130,7 @@
                                     </p>
                                 </td>
                                 <td>
-                                    <div class="in">R$4.345</div>
+                                    <div class="in">R$ 4.345</div>
                                 </td>
                                 <td>
                                     <div class="on">R$ 2.000</div>

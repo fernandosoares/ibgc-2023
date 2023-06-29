@@ -11,7 +11,7 @@ jQuery(document).ready(function () {
     slidesToScroll: 1,
   });
 
-  jQuery("#contador").countdown("2023/11/09 10:00:00", function (event) {
+  jQuery("#contador").countdown("2023/10/17 10:00:00", function (event) {
     jQuery("#contador .day").html(event.strftime("%D <span>dias</span>"));
     jQuery("#contador .hour").html(event.strftime("%H <span>horas</span>"));
     jQuery("#contador .minutes").html(

@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="col-12 text-center">
-                <a href="#" class="cta-corporativa">Inscrição corporativa de grupos. Solicite sua proposta</a>
+                <a href="mailto:paula.scalco@ibgc.org.br" class="cta-corporativa">Inscrição corporativa de grupos. Solicite sua proposta</a>
             </div>
         </div>
     </div>
