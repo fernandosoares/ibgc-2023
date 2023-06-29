@@ -3,7 +3,7 @@
         <div class="row hero-row">
             <div class="col-12">
                 <div class="heading">
-                    <h1><span>Governança em rede:</span><br>Conectando steakeholders</h1>
+                    <h1><span>Governança em rede:</span><br>Conectando stakeholders</h1>
                 </div>
             </div>
         </div>
