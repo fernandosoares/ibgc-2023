@@ -43,7 +43,7 @@
     <div class="container my-5">
         <div class="row">
             <div class="col-12 text-center">
-                <a href="#" class="quero-patrocinar">Quero patrocinar o congresso</a>
+                <a href="mailto:patrocinio@ibgc.org.br" class="quero-patrocinar">Quero patrocinar o congresso</a>
             </div>
         </div>
     </div>

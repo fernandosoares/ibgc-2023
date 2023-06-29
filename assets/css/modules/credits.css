@@ -1,0 +1,29 @@
+#credits {
+    background-color: #262222;
+    color: #fff;
+    padding: 40px 0;
+}
+
+#credits .support {
+    margin-top: 40px;
+}
+
+#credits .support div {
+    position: relative;
+    padding-top: 20px;
+}
+
+#credits .support div::before {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    content: "";
+    background-color: #fff;
+    height: 2px;
+    width: 50px;
+}
+
+#credits .support div p {
+   margin: 0;
+}
