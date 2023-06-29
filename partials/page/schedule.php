@@ -4,8 +4,6 @@
             <div class="col-12">
                 <h2 class="text-center">Programação</h2>
                 <div class="mb-5">
-                    <!-- <small class="d-block mb-0">*Programação sujeita a alterações</small>
-                    <small>**Melhor visualizado via Desktop</small> -->
                     <h5 class="text-center">Em breve...</h5>
                 </div>
             </div>

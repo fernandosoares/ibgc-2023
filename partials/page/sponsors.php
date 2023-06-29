@@ -9,7 +9,7 @@
 
     <div class="container-fluid sponsor master">
         <div class="row">
-            <div class="col-12 d-flex align-items-center justify-content-center">
+            <div class="col-12 d-flex align-items-center justify-content-center p-master">
                 <a href="https://kpmg.com/br/pt/home.html" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/master-kpmg.png' ?>" alt="">
                 </a>
@@ -19,7 +19,7 @@
 
     <div class="container-fluid sponsor prata">
         <div class="row">
-            <div class="col-12 d-flex align-items-center justify-content-center">
+            <div class="col-12 d-flex align-items-center justify-content-center p-prata">
                 <a href="https://www.b3.com.br/pt_br/" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/prata-b3.png' ?>" alt="">
                 </a>
@@ -29,7 +29,7 @@
 
     <div class="container-fluid sponsor bronze">
         <div class="row">
-            <div class="col-12 d-flex align-items-center justify-content-center">
+            <div class="col-12 d-flex align-items-center justify-content-center p-bronze">
                 <a href="https://www.grantthornton.com.br/" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/bronze-grant.png' ?>" alt="">
                 </a>
@@ -39,7 +39,7 @@
 
     <div class="container-fluid sponsor plus">
         <div class="row">
-            <div class="col-12 d-flex align-items-center justify-content-center">
+            <div class="col-12 d-flex align-items-center justify-content-center p-plus">
                 <a href="https://embraer.com/br/pt" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/plus-embraer.png' ?>" alt="">
                 </a>
