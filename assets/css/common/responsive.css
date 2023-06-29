@@ -1,312 +1,228 @@
+/* MOBILE */
+@media all and (max-width: 767px) {
+  section {
+    scroll-margin-top: 115px !important;
+  }
+
+  .navbar {
+    background-color: #000 !important;
+  }
+
+  .navbar-toggler {
+    color: #fff;
+  }
+
+  #home {
+    background-size: cover;
+    min-height: initial;
+    padding: 10px 10px 30px 10px;
+  }
+
+  #home .row.hero-row {
+    padding-top: 160px;
+  }
+
+  #home .row.hero-row h1 span {
+    font-size: 38px;
+    line-height: 42px;
+  }
+
+  #home .row.hero-row h1 {
+    font-size: 60px !important;
+    line-height: 60px;
+  }
+
+  #event-description .desc,
+  #event-description .dates {
+    padding: 30px !important;
+    font-size: 22px;
+    line-height: 24px;
+  }
+
+  #event-description .dates .date {
+    font-size: 28px !important;
+    line-height: 28px !important;
+    margin-bottom: 20px !important;
+  }
+  #event-description .information .dates .address .location__line_1 {
+    font-size: 28px !important;
+    line-height: 28px !important;
+  }
+
+  #event-description .information .dates .address .location__line_2 {
+    line-height: 30px;
+  }
+
+  #palestrantes {
+    padding: 20px 0 !important;
+  }
+
+  #palestrantes h2 {
+    font-size: 38px;
+    line-height: 38px;
+    margin: 0 0 30px 0;
+  }
+
+  #programacao .cta-corporativa {
+    font-size: 16px;
+  }
+
+  #tipo-ingressos img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  #ingressos h2,
+  #tipo-ingressos h2 {
+    font-size: 38px;
+    line-height: 38px;
+    text-align: center;
+  }
+
+  #ingressos table thead th:nth-child(1) {
+    width: 33%;
+  }
+  #ingressos table thead th:nth-child(2),
+  #ingressos table thead th:nth-child(3) {
+    width: 33%;
+  }
+
+  #ingressos {
+    padding: 0 0 30px;
+  }
+
+  #ingressos table thead th h3,
+  #ingressos table tbody tr td h3 {
+    font-size: 18px;
+    margin-top: 40px;
+  }
+
+  #ingressos table thead th div {
+    font-size: 18px;
+    height: 80px;
+  }
+  #ingressos table tbody tr td p {
+    font-size: 18px;
+  }
+
+  #ingressos table tbody tr:last-child td a {
+    font-size: 18px;
+  }
+
+  #congressos {
+    background-size: 180%;
+    margin-top: 0;
+  }
+
+  #congressos h2 {
+    font-size: 38px;
+    margin-top: 140px;
+  }
+
+  #congressos p {
+    font-size: 22px;
+  }
+  #congressos p.m {
+    margin-top: 40px;
+    font-size: 22px;
+  }
+
+  #duvidas {
+    font-size: 18px;
+    padding: 25px 0;
+  }
+
+  #duvidas .container .row div {
+    justify-content: flex-start !important;
+    margin: 0 0 15px 0;
+    font-size: 24px;
+  }
+
+  #credits .support div {
+    padding-bottom: 20px;
+  }
+
+  #patrocinadores .sponsor {
+    text-align: center;
+    display: block !important;
+    padding-top: 90px;
+    padding-bottom: 30px;
+  }
+
+  #patrocinadores .sponsor a {
+    text-align: center;
+    display: inline-block !important;
+  }
+  #patrocinadores .sponsor.master {
+    background: url(../../img/2023/_master.png) no-repeat top center;
+    background-color: #e5e5e5;
+    background-size: 35%;
+  }
+
+  #patrocinadores .sponsor.prata {
+    background: url(../../img/2023/_prata.png) no-repeat top center;
+    background-color: #fff;
+    background-size: 35%;
+  }
+
+  #patrocinadores .sponsor.bronze {
+    background: url(../../img/2023/_bronze.png) no-repeat top center;
+    background-color: #e5e5e5;
+    background-size: 35%;
+  }
+
+  #patrocinadores .sponsor.plus {
+    background: url(../../img/2023/_plus.png) no-repeat top center;
+    background-color: #fff;
+    background-size: 35%;
+  }
+
+  #patrocinadores .sponsor img {
+    max-width: 120px;
+  }
+
+  #patrocinadores .quero-patrocinar {
+    font-size: 24px;
+  }
+
+  .slick-prev,
+  .slick-next {
+    display: none !important;
+  }
+
+  #cta-bottom a {
+    font-size: 24px;
+  }
+
+  #contador p {
+    font-size: 24px;
+  }
+
+  #contador .share {
+    margin-top: 20px;
+  }
+
+  footer {
+    margin-bottom: 137px;
+    text-align: center;
+  }
+
+  footer p,
+  footer a {
+    font-size: 16px;
+  }
+
+  #contador .share a.inscreva {
+    font-size: 13px;
+    padding: 9px 20px 7px;
+  }
+}
+
 /* HD SCREENS */
 @media screen and (min-width: 768px) and (max-width: 1366px) {
-
-    .nav-item {
-        margin-left: 10px;
-    }
-
-    #home .row.hero-row {
-        padding-top: 180px;
-    }
-
-    #home .row.hero-row h1 {
-        font-size: 64px;
-    }
-
-    #home .row.hero-row h2 {
-        font-size: 36px;
-    }
-
-    #home .row.hero-row .event-info {
-        font-size: 24px;
-        margin: 50px 0;
-    }
-
-    #home .row.hero-row .sobre p,
-    #home .row.hero-row .sobre a {
-        font-size: 20px;
-        line-height: 26px;
-    }
-
-    #palestrantes .palestrante .info,
-    .slick-slide img {
-        max-width: 300px;
-    }
-
-    #contador p.starts,
-    #contador p.text-share {
-        font-size: 15px;
-        margin: 0 15px 0 0;
-    }
-
-    #contador p {
-        font-size: 22px;
-    }
-
-    footer {
-        margin-bottom: 64px;
-    }
 }
 
 /* 768 SCREENS */
 @media screen and (min-width: 993px) and (max-width: 1180px) {
-
-    #ingressos .ticket-type h3 {
-        font-size: 28px;
-        line-height: 30px;
-        padding-left: 108px;
-    }
-
-    #ingressos .ticket-type .holder small {
-        font-size: 16px;
-        left: 110px;
-    }
-
-    #ingressos .ticket-type ul li {
-        font-size: 16px;
-    }
-
-    #ingressos .ticket-type {
-        margin: 0 5px;
-    }
-
-    #ingressos .ticket-type.presencial ul li,
-    #ingressos .ticket-type.on-line ul li,
-    #ingressos .ticket-type.meeting ul li {
-        background-size: 20px;
-        padding-left: 45px;
-    }
-
-    #ingressos .inscricao-corporativa a {
-        font-size: 22px;
-    }
-
-    #duvidas {
-        font-size: 18px;
-    }
-
-    #contador p {
-        font-size: 26px;
-    }
-
-    #contador p.starts,
-    #contador p.text-share {
-        font-size: 15px;
-    }
-
-    footer {
-        margin-bottom: 48px;
-    }
-}
-
-/* MOBILE */
-@media screen and (max-width: 992px) {
-
-    section {
-        scroll-margin-top: 115px !important;
-    }
-
-    .navbar {
-        background-color: #000 !important;
-    }
-
-    .navbar-toggler {
-        color: #fff
-    }
-
-    #home .row.hero-row {
-        padding-top: 150px !important;
-    }
-
-    #patrocinadores img:nth-child(0) {
-        margin-top: 25px !important;
-    }
-
-    #patrocinadores .ouro img {
-        margin: 40px auto;
-        display: block;
-        max-width: 80%;
-    }
-
-    #patrocinadores .bronze img {
-        margin: 40px auto;
-        display: block;
-        max-width: 50%;
-    }
-
-    #patrocinadores .parceiro-midia img {
-        margin: 40px auto;
-        display: block;
-        max-width: 30%;
-    }
-
-    #patrocinadores h4 {
-        font-size: 18px;
-    }
-
-    .tipos h4 {
-        color: #fff;
-        text-align: center;
-        margin: 15px 0;
-    }
-
-    .tipos .cabecalho {
-        background-color: #1e47b3;
-        border-radius: 20px;
-        padding: 30px;
-        margin-top: 50px;
-        position: relative;
-    }
-
-    .tipos .presencial .cabecalho {
-        background-color: #1e47b3;
-    }
-
-    .tipos .on-line .cabecalho {
-        background-color: #a8489a;
-    }
-
-    .tipos .meeting .cabecalho {
-        background-color: #3f9c54;
-    }
-
-
-    .tipos .cabecalho h2 {
-        margin: 0 !important;
-        text-align: center;
-        color: #fff;
-        font-size: 32px !important;
-        line-height: 32px;
-    }
-
-    .tipos .cabecalho small {
-        background-color: rgba(255, 255, 255, .2);
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        text-align: center;
-        color: #fff;
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
-    }
-
-    .tipos .tipo {
-        border-radius: 20px;
-        padding: 15px;
-        margin: 0 0 5px 0;
-    }
-
-    .tipos .presencial .tipo {
-        background-color: #0b0a1e;
-    }
-
-    .tipos .on-line .tipo {
-        background-color: #0b0a1e;
-    }
-
-    .tipos .meeting .tipo {
-        background-color: #0b0a1e;
-    }
-
-    .tipos small.disclaimer {
-        text-align: center;
-        display: block;
-        color: #fff;
-        margin-top: 20px;
-    }
-
-    .tipos .tipo p {
-        margin: 0;
-        color: #fff;
-        font-size: 18px;
-    }
-
-    .tipos .comprar {
-        color: #fff;
-        font-size: 28px;
-        font-family: "TT Commons";
-        font-weight: 600;
-        text-align: center;
-        padding: 10px 0;
-        display: block;
-        border-radius: 30px;
-        text-decoration: none;
-        margin: 20px 0 0 0;
-    }
-
-    .tipos .presencial .comprar {
-        background-color: #1e47b3;
-    }
-
-    .tipos .on-line .comprar {
-        background-color: #a8489a;
-    }
-
-    .tipos .meeting .comprar {
-        background-color: #3f9c54;
-    }
-
-
-    #ingressos .ticket-type {
-        margin-bottom: 25px;
-    }
-
-    #ingressos .inscricao-corporativa a {
-        font-size: 18px;
-    }
-
-    #duvidas {
-        font-size: 18px;
-        padding: 25px 0;
-    }
-
-    #duvidas .container .row div {
-        justify-content: center !important;
-        margin: 0 0 15px 0;
-    }
-
-    #palestrantes {
-        padding: 60px 0 120px;
-    }
-
-    #congressos .timeline .left {
-        left: 0
-    }
-
-    #congressos .timeline .right {
-        right: 0
-    }
-
-    .slick-prev,
-    .slick-next {
-        display: none !important;
-    }
-
-    #cta-bottom a {
-        font-size: 24px;
-    }
-
-    #contador p {
-        font-size: 24px;
-    }
-
-    #contador .share {
-        margin-top: 20px;
-    }
-
-    footer {
-        margin-bottom: 137px;
-    }
-
-    footer p,
-    footer a {
-        font-size: 16px;
-    }
-
-    #contador .share a.inscreva {
-        font-size: 13px;
-        padding: 9px 20px 7px;
-    }
-
 }
