@@ -1,4 +1,4 @@
-<section id="ingressos">
+<section id="tipo-ingressos">
     <div class="container">
 
         <div class="row mb-5">
@@ -10,6 +10,12 @@
                 <img src="<?= get_template_directory_uri() . '/assets/img/2023/congresso-online' ?>" alt="" />
             </div>
         </div>
+
+    </div>
+</section>
+
+<section id="ingressos">
+    <div class="container">
 
         <div class="row">
             <div class="col-12">

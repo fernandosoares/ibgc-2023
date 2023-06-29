@@ -137,7 +137,7 @@ function ibgc_get_past_event_videos()
             "url" => "https://www.youtube.com/watch?v=WdkMwppT2tc&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=6&pp=iAQB"
         ],
         [
-            "thumb" => get_template_directory_uri() . "/assets/img/2023/yt/06.png",
+            "thumb" => get_template_directory_uri() . "/assets/img/2023/yt/07.png",
             "url" => "https://www.youtube.com/watch?v=UvHoyfbF4ZQ&list=PL7LheNPNr5gdo_NurpS6sUTbHc476mzMw&index=7&pp=iAQB"
         ],
         [
