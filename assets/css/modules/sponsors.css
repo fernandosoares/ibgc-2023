@@ -11,7 +11,8 @@
 }
 
 #patrocinadores .sponsor {
-    padding: 40px 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #patrocinadores .sponsor img {
