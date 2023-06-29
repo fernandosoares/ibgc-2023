@@ -56,7 +56,7 @@ function ibgc_get_speakers()
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/cristine.png',
             'name' => 'Cristine Grings Nogueira',
-            'position' => 'CEO na Picadilly Company',
+            'position' => 'CEO na Piccadilly Company',
             'linkedin' => 'https://br.linkedin.com/in/cristine-grings-nogueira-005a93170'
         ],
         [
@@ -86,7 +86,7 @@ function ibgc_get_speakers()
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/vicky.png',
             'name' => 'Vicky Bloch',
-            'position' => 'Sócia-diretora na Vichy Bloch Associados',
+            'position' => 'Sócia-diretora na Vicky Bloch Associados',
             'linkedin' => 'https://br.linkedin.com/in/vicky-bloch-2a66b44/pt'
         ],
     ];

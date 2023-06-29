@@ -1,59 +1,64 @@
 #patrocinadores {
-    background-color: #fff;
-    padding: 50px 0;
+  background-color: #fff;
+  padding: 50px 0;
 }
 
 #patrocinadores h2 {
-    margin: 0 0 50px 0;
-    font-weight: 600;
-    font-size: 44px;
-    color: #000;
+  margin: 0 0 50px 0;
+  font-weight: 600;
+  font-size: 44px;
+  color: #000;
 }
 
 #patrocinadores .sponsor {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#patrocinadores .sponsor div {
+  text-align: center;
+  padding: 0 60px;
 }
 
 #patrocinadores .sponsor img {
-    margin: 0 10px;
+  margin: 0 10px 10px 0;
 }
 
 #patrocinadores .sponsor.master {
-    background: url(../../img/2023/master.png) no-repeat left;
-    background-color: #e5e5e5;
-    background-size: contain;
+  background: url(../../img/2023/master.png) no-repeat left;
+  background-color: #e5e5e5;
+  background-size: 140px;
 }
 
 #patrocinadores .sponsor.prata {
-    background: url(../../img/2023/prata.png) no-repeat left;
+  background: url(../../img/2023/prata.png) no-repeat left;
 
-    background-size: contain;
+  background-size: 140px;
 }
 
 #patrocinadores .sponsor.bronze {
-    background: url(../../img/2023/bronze.png) no-repeat left;
-    background-color: #e5e5e5;
-    background-size: contain;
+  background: url(../../img/2023/bronze.png) no-repeat left;
+  background-color: #e5e5e5;
+  background-size: 140px;
 }
 
 #patrocinadores .sponsor.plus {
-    background: url(../../img/2023/plus.png) no-repeat left;
-    background-size: contain;
+  background: url(../../img/2023/plus.png) no-repeat left;
+  background-size: 140px;
 }
 
 #patrocinadores .quero-patrocinar {
-    background-color: #dbd259;
-    color: #000;
-    font-size: 28px;
-    text-decoration: none;
-    border-radius: 25px;
-    padding: 7px 25px 9px;
-    line-height: 5px;
-    font-weight: 600;
+  background-color: #dbd259;
+  color: #000;
+  font-size: 28px;
+  text-decoration: none;
+  border-radius: 25px;
+  padding: 7px 25px 9px;
+  line-height: 5px;
+  font-weight: 600;
 }
 
 #patrocinadores .sponsor.prata img,
 #patrocinadores .sponsor.plus img {
-    border: solid 1px #e5e5e5
+  border: solid 1px #e5e5e5;
 }

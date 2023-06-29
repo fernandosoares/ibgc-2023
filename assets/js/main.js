@@ -1,4 +1,6 @@
 jQuery(document).ready(function () {
+  const mediaQuery = window.matchMedia("(min-width: 767px)");
+
   jQuery("#slick").slick({
     variableWidth: true,
     slidesToShow: 4,
@@ -9,47 +11,48 @@ jQuery(document).ready(function () {
     variableWidth: true,
     slidesToShow: 4,
     slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 767,
-        settings: {
-          slidesToShow: 2,
-        },
-      },
-    ],
   });
 
-  jQuery(".sponsor .row div.p-master").slick({
-    variableWidth: true,
-    infinite: true,
-    slidesToShow: 2,
-    slidesToScroll: 1,
-    centerMode: true,
-  });
+  // jQuery(".sponsor .row div.p-master").slick({
+  //   variableWidth: true,
+  //   infinite: false,
+  //   slidesToShow: 2,
+  //   slidesToScroll: 1,
+  //   centerMode: true,
+  // });
 
-  jQuery(".sponsor .row div.p-prata").slick({
-    variableWidth: true,
-    infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    centerMode: true,
-  });
+  // jQuery(".sponsor .row div.p-prata").slick({
+  //   variableWidth: true,
+  //   infinite: false,
+  //   slidesToShow: 1,
+  //   slidesToScroll: 1,
+  //   centerMode: true,
+  // });
 
-  jQuery(".sponsor .row div.p-bronze").slick({
-    variableWidth: true,
-    infinite: true,
-    slidesToShow: 2,
-    slidesToScroll: 1,
-    centerMode: true,
-  });
+  // jQuery(".sponsor .row div.p-bronze").slick({
+  //   variableWidth: true,
+  //   infinite: false,
+  //   slidesToShow: 2,
+  //   slidesToScroll: 1,
+  //   centerMode: true,
+  // });
 
-  jQuery(".sponsor .row div.p-plus").slick({
-    variableWidth: true,
-    infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    centerMode: false,
-  });
+  // jQuery(".sponsor .row div.p-plus").slick({
+  //   variableWidth: true,
+  //   infinite: false,
+  //   slidesToShow: 2,
+  //   slidesToScroll: 1,
+  //   centerMode: true,
+  //   responsive: [
+  //     {
+  //       breakpoint: 1366,
+  //       settings: {
+  //         infinite: true,
+  //         slidesToShow: 1,
+  //       },
+  //     },
+  //   ],
+  // });
 
   jQuery("#contador").countdown("2023/10/17 10:00:00", function (event) {
     jQuery("#contador .day").html(event.strftime("%D <span>dias</span>"));

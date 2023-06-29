@@ -221,6 +221,9 @@
 
 /* HD SCREENS */
 @media screen and (min-width: 768px) and (max-width: 1366px) {
+  #congressos h2 {
+    margin-top: 30px;
+  }
 }
 
 /* 768 SCREENS */
