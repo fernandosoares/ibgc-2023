@@ -2,8 +2,12 @@
   background: url(../../img/2023/hero.png);
   position: relative;
   background-repeat: no-repeat;
-  min-height: 800px;
+  min-height: 793px;
   color: #fff;
+}
+
+#home video {
+  max-width: 100%;
 }
 
 #home .row.hero-row {
