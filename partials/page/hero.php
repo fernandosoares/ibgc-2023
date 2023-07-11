@@ -1,5 +1,8 @@
 <section id="home">
-    <div class="container">
+    <video class="d-none d-md-block" autoplay loop muted>
+        <source src="<?= get_template_directory_uri() . '/assets/video/hero.mp4' ?>" type="video/mp4" />
+    </video>
+    <div class="container d-block d-md-none">
         <div class="row hero-row">
             <div class="col-12">
                 <div class="heading">
