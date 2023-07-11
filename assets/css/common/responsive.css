@@ -14,12 +14,13 @@
 
   #home {
     background-size: cover;
+    background-position: -30px;
     min-height: initial;
     padding: 10px 10px 30px 10px;
   }
 
   #home .row.hero-row {
-    padding-top: 160px;
+    padding-top: 130px;
   }
 
   #home .row.hero-row h1 span {
@@ -61,6 +62,39 @@
     font-size: 38px;
     line-height: 38px;
     margin: 0 0 30px 0;
+  }
+
+  #palestrantes .palestrante {
+    max-width: 250px;
+    min-height: 300px;
+    background-size: 100%;
+  }
+
+  #palestrantes .palestrante.slick-slide img {
+    margin: 0 auto 30px auto;
+    width: 50%;
+    max-width: 100px;
+  }
+
+  #palestrantes .palestrante .info h3 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  #palestrantes .palestrante .info p {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  #palestrantes .palestrante a.linkedin-button {
+    margin-bottom: 20px;
+    margin-top: -40px;
+  }
+
+  #palestrantes .palestrante a.linkedin-button p {
+    background-size: 15%;
+    font-size: 22px;
+    padding: 2px 0 5px;
   }
 
   #programacao .cta-corporativa {
@@ -214,7 +248,8 @@
   }
 
   #contador .share a.inscreva {
-    font-size: 13px;
+    font-size: 17px;
+    line-height: 25px;
     padding: 9px 20px 7px;
   }
 }

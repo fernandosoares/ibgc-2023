@@ -1,5 +1,6 @@
 #home {
   background: url(../../img/2023/hero.png);
+  position: relative;
   background-repeat: no-repeat;
   min-height: 800px;
   color: #fff;
