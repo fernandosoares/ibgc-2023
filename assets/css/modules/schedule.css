@@ -1,19 +1,19 @@
 #programacao {
-    padding: 65px 0;
-    color: #fff;
-    background-color: #262222;
+  padding: 65px 0;
+  color: #fff;
+  background-color: #262222;
 }
 
 #programacao .cta-corporativa {
-    background-color: #dbd259;
-    color: #000;
-    font-size: 28px;
-    text-decoration: none;
-    border-radius: 25px;
-    padding: 5px 20px 9px;
-    line-height: 5px;
-    margin-top: 40px;
-    font-weight: 500;
+  background-color: #dbd259;
+  color: #000;
+  font-size: 28px;
+  text-decoration: none;
+  border-radius: 25px;
+  padding: 5px 20px 9px;
+  line-height: 5px;
+  margin-top: 40px;
+  font-weight: 500;
 }
 
 /* #programacao h2 {
@@ -31,98 +31,110 @@
     padding: .5rem 0;
 }
 
-#programacao .accordion {}
+*/
+
+#programacao .accordion {
+}
 
 .accordion-button::after,
 .accordion-button:not(.collapsed)::after {
-    filter: invert(0%) sepia(0%) saturate(0%);
+  filter: invert(0%) sepia(0%) saturate(0%);
 }
 
 #programacao .accordion-body {
-    color: #fff;
-    background-color: #0b0a1e;
-    padding: 1rem 0;
+  color: #fff;
+  background-color: #119fa8;
+  padding: 1rem 20px;
 }
 
 #programacao .accordion-button {
-    background-color: #0b0a1e;
-    color: #f5f5f5;
+  background-color: #119fa8;
+  color: #f5f5f5;
+  border-radius: 15px 15px 0 0;
 }
 
-
 #programacao .accordion h2 p {
-    font-size: 48px;
-    font-weight: 700;
-    margin: 0;
+  font-size: 28px;
+  font-weight: 400;
+  margin: 0;
 }
 
 #programacao .accordion .item .check {
-    font-size: 48px;
-    font-weight: 700;
-    margin: 0;
-    background-image: url(../../img/check-disabled.png);
-    background-repeat: no-repeat;
-    width: 20px;
-    height: 20px;
-    background-size: contain;
-    padding: 12px 0;
-    margin: 0 3px;
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0;
+  background-image: url(../../img/check-disabled.png);
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  padding: 12px 0;
+  margin: 0 3px;
 }
 
 #programacao .accordion .titulo p {
-    margin-right: 15px;
+  margin-right: 15px;
 }
 
 #programacao .accordion .titulo .check {
-    margin: 0 3px;
-    background-size: contain;
-    background-position: 50%;
-    width: 20px;
-    height: 20px;
+  margin: 0 3px;
+  background-size: contain;
+  background-position: 50%;
+  width: 20px;
+  height: 20px;
 }
 
 #programacao .accordion .item {
-    font-size: 18px;
-    margin: 0 0 10px 0;
+  font-size: 18px;
+  margin: 0 0 10px 0;
+}
+
+#programacao .accordion-item {
+  border: none;
+  background-color: transparent;
+}
+
+#programacao .accordion-body {
+  border-radius: 0 0 15px 15px;
 }
 
 #programacao .accordion .item .hour {
-    font-size: 22px;
+  font-size: 22px;
 }
 
 #programacao .accordion .item .check.presencial {
-    background-image: url(../../img/check-presencial.png);
+  background-image: url(../../img/check-presencial.png);
 }
 
 #programacao .accordion .item .check.on {
-    background-image: url(../../img/check-on-line.png);
+  background-image: url(../../img/check-on-line.png);
 }
 
 #programacao .accordion .item .check.encontros {
-    background-image: url(../../img/check-meeting.png);
+  background-image: url(../../img/check-meeting.png);
 }
 
 #programacao .tipos p {
-    margin: 0 30px 0 0;
-    color: #dbd259;
-    font-weight: 600;
+  margin: 0 30px 0 0;
+  color: #dbd259;
+  font-weight: 600;
 }
 
 #programacao .tipo {
-    margin: 0 10px 0 0;
-    height: 80px;
-    padding: 0 20px;
-    border-radius: 10px;
+  margin: 0 10px 0 0;
+  height: 80px;
+  padding: 0 20px;
+  border-radius: 10px;
 }
 
 #programacao .tipo.presencial {
-    background-color: #1e47b3;
+  background-color: #1e47b3;
 }
 
 #programacao .tipo.on {
-    background-color: #a8489a;
+  background-color: #a8489a;
 }
 
 #programacao .tipo.encontros {
-    background-color: #3f9c54;
-} */
+  background-color: #3f9c54;
+}
