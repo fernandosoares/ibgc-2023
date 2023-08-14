@@ -54,6 +54,54 @@ function ibgc_get_speakers()
 {
     return [
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/ada-mota-foto-congresso.png',
+            'name' => 'Ada Mota',
+            'position' => 'Sócia e presidente do Grupo ADCOS',
+            'linkedin' => 'https://www.linkedin.com/in/ada-mota-12688415/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/alexandre-di-miceli-foto-congresso.png',
+            'name' => 'Alexandre Di Miceli',
+            'position' => 'Sócio fundador da Virtuous Company',
+            'linkedin' => 'https://www.linkedin.com/in/alexandre-di-miceli-85781/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/alexandre-silva-foto-congresso.png',
+            'name' => 'Alexandre Silva',
+            'position' => 'Presidente do conselho de administração (PCA) da EMBRAER',
+            'linkedin' => 'https://www.linkedin.com/in/alexandre-silva-1a12211b2/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/amaury-olsen-foto-congresso.png',
+            'name' => 'Amaury Olsen',
+            'position' => 'Chairman da Zilor',
+            'linkedin' => 'https://linkedin.com/in/amaury-olsen-003b4a43'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/ana-karina-bortoni-foto-congresso.png',
+            'name' => 'Ana Karina Bortoni',
+            'position' => 'Presidente do conselho da 2W Ecobank e presidente do conselho da Biolab Farmacêutica',
+            'linkedin' => 'http://linkedin.com/in/anakarinadias'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/andreza-rocha-foto-congresso.png',
+            'name' => 'Andreza Rocha',
+            'position' => 'Fundadora e diretora executiva AfrOya Tech Hub',
+            'linkedin' => 'http://www.linkedin.com/in/andrezarocha'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/cezar-taurion-foto-congresso.png',
+            'name' => 'Cezar Taurion',
+            'position' => 'Chief Strategy Officer (CSO) da Redcore',
+            'linkedin' => 'https://www.linkedin.com/in/ctaurion/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/cristiana-pereira-foto-congresso.png',
+            'name' => 'Cristiana Pereira',
+            'position' => 'Conselheira e sócia da Ace Governance',
+            'linkedin' => 'https://www.linkedin.com/in/cristiana-pereira-2019b'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/cristine.png',
             'name' => 'Cristine Grings Nogueira',
             'position' => 'CEO na Piccadilly Company',
@@ -66,10 +114,124 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/edgardgouveiajr/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/eduardo-ibrahim-foto-congresso.png',
+            'name' => 'Eduardo Ibrahim',
+            'position' => 'Especialista em IA e economia da Singularity University e CEO da Exonomics',
+            'linkedin' => 'https://www.linkedin.com/in/eduibrahim/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/ed-hess-foto-congresso.png',
+            'name' => 'Edward D. Hess',
+            'position' => 'Professor emérito de administração de empresas, Darden School of Business, Universidade da Virgínia',
+            'linkedin' => 'https://linkedin.com/in/edward-hess-41638b16'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/elisa-leonel-foto-congresso.png',
+            'name' => 'Elisa Leonel',
+            'position' => 'Secretária de Coordenação e Governança das Empresas Estatais',
+            'linkedin' => 'https://www.linkedin.com/in/elisa-leonel-4b9aab98/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/emily-well-foto-congresso.png',
+            'name' => 'Emily Ewell',
+            'position' => 'CEO & co-fundadora da Pantys',
+            'linkedin' => 'https://www.linkedin.com/in/emilyewell/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/estevan.png',
             'name' => 'Estevan Sartoreli',
             'position' => 'Cofundador e Co-CEO na Dengo Chocolates',
             'linkedin' => 'https://br.linkedin.com/in/estevansartoreli'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/fernando-bonfim-foto-congresso.png',
+            'name' => 'Fernando Bonfim',
+            'position' => '',
+            'linkedin' => ''
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/fernando-mode-foto-congresso.png',
+            'name' => 'Fernando Modé',
+            'position' => 'CEO do Grupo Boticário',
+            'linkedin' => 'https://www.linkedin.com/in/fernando-mode/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/flavia-mouta-foto-congresso.png',
+            'name' => 'Flávia Mouta',
+            'position' => 'Diretora de Emissores, B3',
+            'linkedin' => 'https://www.linkedin.com/in/flavia-mouta-2a1b31122/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/gabriela-baumgart-foto-congresso.png',
+            'name' => 'Gabriela Baumgart',
+            'position' => 'Conselheira de administração do Grupo Baumgart; presidente do conselho do IBGC',
+            'linkedin' => 'http://www.linkedin.com/in/gabrielabaumgart/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/george-dallas-foto-congresso.png',
+            'name' => 'George Dallas',
+            'position' => 'Head of Content, European Corporate Governance Institute',
+            'linkedin' => 'https://www.linkedin.com/in/george-dallas-6b36851/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/geraldo-enck-foto-congresso.png',
+            'name' => 'Geraldo E. Enck',
+            'position' => 'Conselheiro da Évora S.A.',
+            'linkedin' => ''
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/giovana-meneghel-foto-congresso.png',
+            'name' => 'Giovanna Meneghel',
+            'position' => 'CEO e co-fundadora da Nude',
+            'linkedin' => 'https://www.linkedin.com/in/giovanna-meneghel-14896525/ '
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/glaucy-bocci-foto-congresso.png',
+            'name' => 'Glaucy Bocci',
+            'position' => 'Senior Client Partner & Board Services COE Member da Korn Ferry',
+            'linkedin' => 'https://www.linkedin.com/in/glaucybocci/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/guilherme-fernandes-foto-congresso.png',
+            'name' => 'Guilherme Fernandes',
+            'position' => 'Founder & CTO do Meu Chapa',
+            'linkedin' => 'https://www.linkedin.com/in/guilhermederesendefernandes/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/guillaume-legare-foto-congresso.png',
+            'name' => 'Guillaume Légaré',
+            'position' => 'Head, South America, Toronto Stock Exchange & TSX Venture Exchange',
+            'linkedin' => 'https://www.linkedin.com/in/guillaume-l%C3%A9gar%C3%A9-73b16914/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/ingrid-barth-foto-congresso.png',
+            'name' => 'Ingrid Barth',
+            'position' => 'COO do Linker',
+            'linkedin' => 'https://www.linkedin.com/in/ingridbarth/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/joana-setzer-foto-congresso.png',
+            'name' => 'Joana Setzer',
+            'position' => 'Professora e pesquisadora no Grantham Research Institute on Climate Change and the Environment, LSE',
+            'linkedin' => 'https://www.linkedin.com/in/joana-setzer-16418910/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/joao-biarari-foto-congresso.png',
+            'name' => 'João Biarari',
+            'position' => 'Founder & CEO do Meu Chapa',
+            'linkedin' => 'https://www.linkedin.com/in/joaobiarari/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/joaquim-rubens-foto-congresso.png',
+            'name' => 'Joaquim Rubens',
+            'position' => 'Professor e consultor na Fundação Getulio Vargas/EBAPE',
+            'linkedin' => 'https://linkedin.com/in/joaquim-rubens-fontes-filho-38662b216/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/jose-pugas-foto-congresso.png',
+            'name' => 'José Pugas',
+            'position' => 'Sócio e head de Investimentos Sustentáveis, JGP',
+            'linkedin' => 'https://www.linkedin.com/in/jos%C3%A9-pugas-2ab41425/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/juliana.png',
@@ -78,10 +240,94 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/juliana-rozenbaum-031644a'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/lais-xavier-foto-congresso.png',
+            'name' => 'Laís Xavier',
+            'position' => 'CTO do Muda meu Mundo',
+            'linkedin' => 'https://www.linkedin.com/in/laisx'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/livia-brando-foto-congresso.png',
+            'name' => 'Lívia Brando',
+            'position' => 'Sócia-diretora de Venture Capital, Vox Capital',
+            'linkedin' => 'https://www.linkedin.com/in/liviabrando/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/lucas-mota-soares-foto-congresso.png',
+            'name' => 'Lucas Mota Soares',
+            'position' => 'Sócio diretor do Grupo ADCOS',
+            'linkedin' => 'https://www.linkedin.com/in/lucas-mota-soares-14091542/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/luciana-dias-foto-congresso.png',
+            'name' => 'Luciana Dias',
+            'position' => 'Professora da FGV-Direito e sócia do L|Dias Advogados',
+            'linkedin' => 'https://www.linkedin.com/in/luciana-dias-54954b156/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/luiz-zillo-neto-foto-congresso.png',
+            'name' => 'Luiz Zillo Neto',
+            'position' => 'Conselheiro da Zilor',
+            'linkedin' => 'https://www.linkedin.com/in/luizzillo/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/marcelo-favieiro-foto-congresso.png',
+            'name' => 'Marcelo Favieiro',
+            'position' => 'Presidente do conselho de administração (PCA) da Piccadilly @ Co.',
+            'linkedin' => 'https://www.linkedin.com/in/marcelo-favieiro-25915517/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/maria-eduarda-camargo-foto-congresso.png',
+            'name' => 'Maria Eduarda Camargo',
+            'position' => 'COO, CFO e co-fundadora da Pantys',
+            'linkedin' => ''
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/otavio-yazbek-foto-congresso.png',
+            'name' => 'Otávio Yazbek',
+            'position' => 'Sócio do Yazbek Advogados',
+            'linkedin' => 'https://br.linkedin.com/in/otavio-yazbek-398b4656'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/pedro-rudge-foto-congresso.png',
+            'name' => 'Pedro Rudge',
+            'position' => 'Sócio fundador da Leblon Equities',
+            'linkedin' => 'https://www.linkedin.com/in/pedro-rudge-45b6202/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/priscilla-veras-foto-congresso.png',
+            'name' => 'Priscilla Veras',
+            'position' => 'CEO & founder Muda meu Mundo',
+            'linkedin' => 'https://www.linkedin.com/in/priscilla-veras-50a8ba120'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/r-edward-freeman-foto-congresso.png',
+            'name' => 'R. Edward Freeman',
+            'position' => '',
+            'linkedin' => 'https://linkedin.com/in/r-edward-freeman-98b8897'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/ricardo.png',
             'name' => 'Ricardo Young',
             'position' => 'Empresário, consultor de sustentabilidade e sócio-diretor da CT&I Brasil e da Byocoin',
             'linkedin' => 'https://br.linkedin.com/in/ricardo-young-22857911'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/roberto-waack-foto-congresso.png',
+            'name' => 'Roberto Waak',
+            'position' => 'Presidente do conselho do Instituto Arapyau',
+            'linkedin' => ''
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/sandro-magaldi-foto-congresso.png',
+            'name' => 'Sandro Magaldi',
+            'position' => 'Co-autor do bestseller "Gestão do Amanhã" e outras 8 obras de negócios',
+            'linkedin' => 'https://www.linkedin.com/in/sandromagaldi/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/tania-cosentino-foto-congresso.png',
+            'name' => 'Tânia Cosentino',
+            'position' => 'Presidente da Microsoft Brasil',
+            'linkedin' => 'https://www.linkedin.com/in/tania-cosentino-18bb236/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/vicky.png',
@@ -89,11 +335,25 @@ function ibgc_get_speakers()
             'position' => 'Sócia-diretora na Vicky Bloch Associados',
             'linkedin' => 'https://br.linkedin.com/in/vicky-bloch-2a66b44/pt'
         ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/victor-mota-soares-foto-congresso.png',
+            'name' => 'Victor Mota Soares',
+            'position' => 'Diretor de Tecnologia do Grupo ADCOS',
+            'linkedin' => 'https://www.linkedin.com/in/vmsoares'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/william-ling-foto-congresso.png',
+            'name' => 'William Ling',
+            'position' => 'Presidente do conselho de administração (PCA) da Évora S.A.',
+            'linkedin' => 'https://www.linkedin.com/in/william-ling-23'
+        ],
     ];
 }
 
 function ibgc_build_speaker($picture, $name, $position, $linkedin)
 {
+
+    $invisible = !empty($linkedin) ?: "invisible";
 
     return <<<HTML
         <div class="palestrante">
@@ -102,7 +362,7 @@ function ibgc_build_speaker($picture, $name, $position, $linkedin)
                 <h3>{$name}</h3>
                 <p>{$position}</p>
             </div>
-            <a class="linkedin-button" href="{$linkedin}" target="_blank">
+            <a class="linkedin-button {$invisible}" href="{$linkedin}" target="_blank">
                 <p>Conectar</p>
             </a>
         </div>

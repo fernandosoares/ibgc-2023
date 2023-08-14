@@ -1,71 +1,70 @@
 #palestrantes {
-    padding: 120px 0;
+  padding: 120px 0;
 }
 
 #palestrantes h2 {
-    font-weight: 700;
-    font-size: 48px;
-    margin: 0 0 70px 0;
+  font-weight: 700;
+  font-size: 48px;
+  margin: 0 0 70px 0;
 }
 
 .slick-slide {
-    margin: 0 15px;
+  margin: 0 15px;
 }
 
 #palestrantes .palestrante {
-    border-radius: 30px;
-    background: url(../../img/2023/bg-palestrante.png) no-repeat top;
-    border: solid 1px #e5e5e5;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    min-height: 500px;
-    padding: 25px 0 0;
-    max-width: 340px;
+  border-radius: 30px;
+  background: url(../../img/2023/bg-palestrante.png) no-repeat top;
+  border: solid 1px #e5e5e5;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 500px;
+  padding: 25px 0 0;
+  width: 340px;
 }
 
 #palestrantes .palestrante .info {
-    max-width: 380px;
-    padding: 0 15px;
-    min-height: 190px;
+  max-width: 380px;
+  padding: 0 15px;
+  min-height: 190px;
 }
 
 #palestrantes .palestrante.slick-slide img {
-    display: block;
-    margin: 0 auto;
-    width: 50%;
-    max-width: 160px;
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  max-width: 160px;
 }
 
-
 #palestrantes .palestrante a.linkedin-button {
-    text-decoration: none;
-    display: block;
+  text-decoration: none;
+  display: block;
 }
 
 #palestrantes .palestrante a.linkedin-button p {
-    background: url(../../img/2023/linkedin.png) no-repeat left;
-    background-position: 5px 50%;
-    font-size: 32px;
-    color: #1e47b3;
-    border: solid 1px #1e47b3;
-    border-radius: 28px;
-    padding: 0 0 5px;
-    margin: 0 15px;
+  background: url(../../img/2023/linkedin.png) no-repeat left;
+  background-position: 5px 50%;
+  font-size: 32px;
+  color: #1e47b3;
+  border: solid 1px #1e47b3;
+  border-radius: 28px;
+  padding: 0 0 5px;
+  margin: 0 15px;
 }
 
 #palestrantes .palestrante .info h3 {
-    color: #000;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 32px;
-    margin-bottom: 16px;
+  color: #000;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 32px;
+  margin-bottom: 16px;
 }
 
 #palestrantes .palestrante .info p {
-    color: #000;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 28px;
+  color: #000;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
 }

@@ -1,7 +1,7 @@
 <section id="palestrantes">
     <div class="container">
         <div class="row">
-            <h2 class="text-center">Palestrantes confirmados</h2>
+            <h2 class="text-center">Presenças confirmadas</h2>
             <div id="slick">
                 <?php foreach (ibgc_get_speakers() as $speaker) : ?>
                     <?= ibgc_build_speaker($speaker['picture'], $speaker['name'], $speaker['position'], $speaker['linkedin']) ?>
