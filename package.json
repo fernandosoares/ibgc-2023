@@ -1,8 +1,15 @@
 {
+  "name": "ibgc-2023",
+  "version": "1.0.0",
+  "description": "LP do 24 Congresso IBGC",
+  "main": "index.js",
   "scripts": {
     "deploy": "./node_modules/.bin/firebase deploy --only hosting"
   },
   "devDependencies": {
-    "firebase-tools": "^12.4.7"
-  }
+    "firebase-tools": "^12"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
