@@ -234,10 +234,16 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/jos%C3%A9-pugas-2ab41425/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/juliana-custodio-foto-congresso.png',
+            'name' => 'Juliana Custódio',
+            'position' => 'Gerente geral de dados na PagBank',
+            'linkedin' => 'https://www.linkedin.com/in/juliana-rozenbaum-031644a'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/juliana.png',
             'name' => 'Juliana Rozenbaum',
             'position' => 'Conselheira na Lojas Renner, Dexco, EDP Brasil, Eurofarma e Cogna Educação',
-            'linkedin' => 'https://www.linkedin.com/in/juliana-rozenbaum-031644a'
+            'linkedin' => 'https://www.linkedin.com/in/julianaacustodio/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/lais-xavier-foto-congresso.png',

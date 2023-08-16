@@ -8,7 +8,7 @@
                 </div>
             </div>
 
-            <div class="accordion mb-4" id="accordion-programacao">
+            <!-- <div class="accordion mb-4" id="accordion-programacao">
 
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="primeiro-dia">
@@ -31,7 +31,7 @@
                     </div>
 
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-12 text-center mt-5">
                 <a href="mailto:paula.scalco@ibgc.org.br" class="cta-corporativa">Inscrição corporativa de grupos. Solicite sua proposta</a>

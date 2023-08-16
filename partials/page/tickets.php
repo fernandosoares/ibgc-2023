@@ -31,7 +31,7 @@
                             <tr>
                                 <th>
                                     <h3>
-                                        Fase 1 (29/06 a 14/08)
+                                        Fase 1 (29/06 a 21/08)
                                     </h3>
                                 </th>
                                 <th>
@@ -79,7 +79,7 @@
 
                             <tr>
                                 <td>
-                                    <h3>Fase 2 (15/08 a 20/09)</h3>
+                                    <h3>Fase 2 (22/08 a 20/09)</h3>
                                 </td>
                                 <td>
                                     <div class="in sep"></div>
