@@ -39,6 +39,12 @@
                 <a href="https://www.marsh.com/br/home.html" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressomarsh-patrocinio-bronze.png' ?>" alt="">
                 </a>
+                <a href="https://welcome.atlasgov.com/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/atlas-gov.png' ?>" alt="">
+                </a>
+                <a href="https://gruporeport.com.br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/grupo-report.png' ?>" alt="">
+                </a>
             </div>
         </div>
     </div>
@@ -62,6 +68,9 @@
                 </a>
                 <a href="https://www.talentoincluir.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressotalento-patrocinio-plus.png' ?>" alt="">
+                </a>
+                <a href="https://www.cielo.com.br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/cielo.png' ?>" alt="">
                 </a>
             </div>
         </div>
