@@ -112,25 +112,25 @@
 }
 
 #programacao .accordion div.topic-container {
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
 }
 
 #programacao .accordion .schedule-item .topic.gray {
-  border-bottom: solid 1px #454545;
-  padding-bottom: 1rem;
+  border-top: solid 1px #454545;
+  padding-top: 1rem;
 }
 #programacao .accordion .schedule-item .topic.black {
-  border-bottom: solid 1px #000;
-  padding-bottom: 1rem;
+  border-top: solid 1px #000;
+  padding-top: 1rem;
 }
 
 #programacao .accordion div.topic-container.b-gray {
   border-bottom: solid 1px #454545;
 }
 
-#programacao .accordion div.topic-container.b-black {
+/* #programacao .accordion div.topic-container.b-black {
   border-bottom: solid 1px #000;
-}
+} */
 
 #programacao .accordion div.topic-container:last-child {
   border-bottom: none;

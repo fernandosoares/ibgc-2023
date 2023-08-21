@@ -45,8 +45,8 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">10h40</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Governança pela perspectiva da Teoria dos <em>stakeholders</em></p>
-                                    <p class="desc"> - R. Edward Freeman, professor emérito de administração de empresas, Darden School of Business, Universidade de Virgínia</p>
+                                    <p class="title">Teoria dos <em>stakeholders</em></p>
+                                    <p class="desc"> - R. Edward Freeman (participação on-line), professor emérito de administração de empresas, Darden School of Business, Universidade de Virgínia</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -66,6 +66,7 @@
                                     <p class="title">Grupo Boticário: governança de stakeholders e impacto multidimensional</p>
                                     <p class="desc"> - Fernando Modé, CEO do Grupo Boticário</p>
                                     <p class="flag presencial">Presencial</p>
+                                    <p class="flag online">On-line</p>
                                 </div>
                             </div>
                             <div class="row schedule-item">
@@ -96,28 +97,28 @@
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
-                                    <h3 class="topic mt-2 gray">Piccadilly</h3>
+                                    <h3 class="topic mt-4 gray">Piccadilly</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Cristine Grings Nogueira, CEO da Piccadilly Company</p>
                                         <p class="desc"> - Marcelo Favieiro, presidente do conselho de administração da Piccadilly @ Co.</p>
                                     </div>
 
-                                    <h3 class="topic mt-2">Grupo Zilor</h3>
+                                    <h3 class="topic mt-4">Grupo Zilor</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Luiz Zillo Neto, conselheiro da Zilor</p>
-                                        <p class="desc"> - Amaury Olsen, chairman da Zilor</p>
+                                        <p class="desc"> - Amaury Olsen, <em>chairman</em> da Zilor</p>
                                         <p class="desc"> - Moderação: Gabriela Baumgart, presidente do conselho de
                                             administração do IBGC e conselheira de administração do Grupo Baumgart</p>
                                     </div>
 
-                                    <h3 class="topic mt-2">Adcos</h3>
+                                    <h3 class="topic mt-4">Adcos</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Dra. Ada Mota, sócia e presidente do Grupo Adcos</p>
                                         <p class="desc"> - Lucas Mota Soares, sócio-diretor do Grupo Adcos</p>
                                         <p class="desc"> - Victor Mota Soares, diretor de Tecnologia do Grupo Adcos</p>
                                     </div>
 
-                                    <h3 class="topic mt-2">Évora S.A.</h3>
+                                    <h3 class="topic mt-4">Évora S.A.</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - William Ling, presidente do conselho de administração da Évora S.A.</p>
                                         <p class="desc"> - Geraldo Enck, conselheiro da Évora S.A.</p>
@@ -135,7 +136,7 @@
 
                                     <p class="flag presencial">Presencial</p>
 
-                                    <h3 class="topic mt-2 black">Litigância climática e responsabilidade dos administradores</h3>
+                                    <h3 class="topic mt-4 black">Litigância climática e responsabilidade dos administradores</h3>
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Roberto Waack, presidente do conselho do Instituto Arapyaú</p>
                                         <p class="desc"> - Joana Setzer, professora e pesquisadora no Grantham Research
@@ -145,7 +146,7 @@
                                             Brazil, sócio e head de investimentos Sustentáveis da JGP</p>
                                     </div>
 
-                                    <h3 class="topic mt-2 black">Mercado de carbono: a quem interessa?</h3>
+                                    <h3 class="topic mt-4 black">Mercado de carbono: a quem interessa?</h3>
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Viviane Romeiro, diretora de Clima, Energia e Finanças Sustentáveis no
                                             CEBDS</p>
@@ -153,14 +154,14 @@
                                             CarbonCreditMarkets.com; consultor na Damasceno &amp; Oliva Consulting</p>
                                     </div>
 
-                                    <h3 class="topic mt-2 black">Alterações na lei societária e proteção dos investidores</h3>
+                                    <h3 class="topic mt-4 black">Alterações na lei societária e proteção dos investidores</h3>
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Pedro Rudge, sócio fundador da Leblon Equities</p>
                                         <p class="desc"> - Otavio Yazbek, sócio do Yazbek Advogados</p>
                                         <p class="desc"> - Moderação: Cristiana Pereira, conselheira e sócia da Ace Governance</p>
                                     </div>
 
-                                    <h3 class="topic mt-2 black">Governo e impactos da Lei das Estatais</h3>
+                                    <h3 class="topic mt-4 black">Governo e impactos da Lei das Estatais</h3>
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Elisa Leonel, secretária de Coordenação e Governança das Empresas
                                             Estatais</p>
@@ -184,14 +185,14 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">16h20</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Governança pela perspectiva da Teoria dos <em>stakeholders</em></p>
+                                    <p class="title">O ESG e a relação com os <em>stakeholders</em> na estratégia do negócio</p>
                                     <p class="desc"> - Juliana Rozenbaum, conselheira de empresas (Lojas Renner, Cogna,
                                         Dexco, EDP Brasil, Eurofarma, Dengo, NK e GoCase), além de mentora
                                         Endeavor</p>
                                     <p class="desc"> - Estevan Sartorelli, cofundador e co-CEO da Dengo Chocolates</p>
                                     <p class="desc"> - Fernando Bonfim, produtor de cacau da Bahia</p>
                                     <p class="desc"> - Moderação: Ricardo Young, líder da Comunidade ESG do IBGC,
-                                        membro do Comite Executivo do Chapter Zero Brazil, empresário, consultor de
+                                        membro do Comitê Executivo do Chapter Zero Brazil, empresário, consultor de
                                         sustentabilidade, sócio-diretor da CT&amp;I e Byocoin Serviços Ecossistêmicos</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -202,7 +203,7 @@
                                 <div class="col-12 col-md-2 mt-1">17h</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Cultura adaptativa e gestão do amanhã</p>
-                                    <p class="desc"> - Sandro Magaldi, coautor do bestseller Gestão do Amanhã e de outras 8
+                                    <p class="desc"> - Sandro Magaldi, coautor do bestseller <em>Gestão do Amanhã</em> e de outras 8
                                         obras</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -317,9 +318,9 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">10h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">ESG &amp; Stewardship - o papel dos investidores</p>
-                                    <p class="desc"> -George Dallas, Head of Content, European Corporate Governance
-                                        Institute</p>
+                                    <p class="title">ESG &amp; <em>Stewardship</em> - o papel dos investidores</p>
+                                    <p class="desc"> - George Dallas, <em>Head of Content, European Corporate Governance
+                                            Institute</em></p>
                                     <p class="desc"> - Daniel Izzo, CEO da Vox Capital</p>
                                     <p class="desc"> - Moderação: Mauro Rodrigues da Cunha, membro do conselho de
                                         administração de Embraer, Klabin, AES e Hypera Pharm; ex-presidente da
@@ -341,30 +342,30 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">11h25</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title mb-0"><em>Breakout sessions</em> | Governança em startups</em></p>
+                                    <p class="title mb-0"><em>Breakout sessions</em> | Governança em <em><b>startups</b></em></p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
 
-                                    <h3 class="topic mt-2 gray">Nude</h3>
+                                    <h3 class="topic mt-4 gray">Nude</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Giovanna Meneghel, CEO e co-fundadora da Nude</p>
                                         <p class="desc"> - Lívia Brando, conselheira da Nude e sócia-diretora de Venture Capital,
                                             Vox Capital.</p>
                                     </div>
 
-                                    <h3 class="topic mt-2">Pantys</h3>
+                                    <h3 class="topic mt-4">Pantys</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Emily Ewell, CEO &amp; co-fundadora da Pantys</p>
                                         <p class="desc"> - Maria Eduarda Camargo, COO, CFO e co-fundadora da Pantys</p>
                                     </div>
 
-                                    <h3 class="topic mt-2">Linker</h3>
+                                    <h3 class="topic mt-4">Linker</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Ingrid Barth, COO do Linker</p>
                                     </div>
 
-                                    <h3 class="topic mt-2">Muda meu Mundo</h3>
+                                    <h3 class="topic mt-4">Muda meu Mundo</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Priscilla Veras, CEO &amp; founder do Muda meu Mundo</p>
                                         <p class="desc"> - Laís Xavier, CTO do Muda meu Mundo</p>
@@ -404,12 +405,12 @@
 
                                     <p class="flag presencial">Presencial</p>
 
-                                    <h3 class="topic mt-2 gray">Saúde mental e burnout digital na pauta do conselho?</h3>
+                                    <h3 class="topic mt-4 gray">Saúde mental e burnout digital na pauta do conselho?</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Sergio Piza, sócio fundador da Piza Advisors</p>
                                     </div>
 
-                                    <h3 class="topic mt-2 gray">Impacto social e ética algorítmica</h3>
+                                    <h3 class="topic mt-4 gray">Impacto social e ética algorítmica</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Juliana Custódio, gerente geral de dados na PagBank</p>
                                         <p class="desc"> - Moderação: Andreza Rocha, fundadora e diretora executiva AfrOya Tech
@@ -424,10 +425,10 @@
                                 <div class="col-12 col-md-10">
                                     <p class="title">Bolsas de Valores: flexibilização de regras e impactos na
                                         governança</p>
-                                    <p class="desc"> - George Dallas, Head of Content, European Corporate Governance
-                                        Institute</p>
-                                    <p class="desc"> - Guillaume Legare, Head, South America, Toronto Stock Exchange &amp;
-                                        TSX Venture Exchange</p>
+                                    <p class="desc"> - George Dallas, <em>Head of Content, European Corporate Governance
+                                            Institute</em></p>
+                                    <p class="desc"> - Guillaume Legare, <em>Head, South America, Toronto Stock Exchange &amp;
+                                            TSX Venture Exchange</em></p>
                                     <p class="desc"> - Moderação: Flavia Mouta, diretora de Emissores da B3</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -481,8 +482,9 @@
                     </div>
                 </div>
 
-
             </div>
+
+            <small>Programação sujeita a alterações sem aviso prévio. Breakout sessions, masterclasses e feira de negócios só estão acessíveis na modalidade presencial. Sessões plenárias terão tradução inglês-português e libras.</small>
 
             <div class="col-12 text-center mt-5">
                 <a href="mailto:paula.scalco@ibgc.org.br" class="cta-corporativa">Inscrição corporativa de grupos. Solicite sua proposta</a>
