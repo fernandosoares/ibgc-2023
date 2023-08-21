@@ -502,3 +502,135 @@ function ibgc_get_past_event_videos()
         ],
     ];
 }
+
+function ibgc_schedule(int $dia)
+{
+    switch ($dia) {
+        case 1:
+            return [
+                [
+                    "time" => "09h",
+                    "title" => "Credenciamento e welcome coffee",
+                    "topic" => "",
+                    "desc" => [],
+                    "presencial" => true,
+                    "online" => false
+                ],
+                [
+                    "time" => "10h",
+                    "title" => "Abertura",
+                    "topic" => "",
+                    "desc" => [],
+                    "presencial" => true,
+                    "online" => true
+                ],
+                [
+                    "time" => "10h20",
+                    "title" => "A definir",
+                    "topic" => "",
+                    "desc" => [],
+                    "presencial" => true,
+                    "online" => true
+                ],
+                [
+                    "time" => "10h40",
+                    "title" => "Governança pela perspectiva da Teoria dos <em>stakeholders</em>",
+                    "topic" => "",
+                    "desc" => ["R. Edward Freeman, professor emérito de administração de empresas, Darden School of Business, Universidade de Virgínia"],
+                    "presencial" => true,
+                    "online" => true
+                ],
+                [
+                    "time" => "11h",
+                    "title" => "Integridade como princípio",
+                    "topic" => "",
+                    "desc" => ["Alexandre Di Miceli, sócio fundador da Virtuous Company"],
+                    "presencial" => true,
+                    "online" => true
+                ],
+                [
+                    "time" => "11h40h",
+                    "title" => "Grupo Boticário: governança de stakeholders e impacto multidimensional",
+                    "topic" => "",
+                    "desc" => ["Fernando Modé, CEO do Grupo Boticário"],
+                    "presencial" => true,
+                    "online" => false
+                ],
+                [
+                    "time" => "12h",
+                    "title" => "Almoço",
+                    "topic" => "",
+                    "desc" => [],
+                    "presencial" => true,
+                    "online" => false
+                ],
+                [
+                    "time" => "13h",
+                    "title" => "Masterclasses <em>(A definir)</em>",
+                    "topic" => "",
+                    "desc" => [],
+                    "presencial" => true,
+                    "online" => false
+                ],
+                [
+                    "time" => "14h",
+                    "title" => "Feira de negócios",
+                    "topic" => "",
+                    "desc" => [],
+                    "presencial" => true,
+                    "online" => false
+                ],
+                [
+                    "time" => "14h30",
+                    "title" => "Breakout sessions | Desafios contemporâneos das empresas familiares",
+                    "topic" => "Piccadilly",
+                    "desc" => ["Cristine Grings Nogueira, CEO da Piccadilly Company", "Marcelo Favieiro, presidente do conselho de administração da Piccadilly @ Co."],
+                    "presencial" => true,
+                    "online" => false
+                ],
+            ];
+    }
+}
+
+function ibgc_get_schedule($time, $title, $topic = "", array $desc, $presencial = false, $online = false)
+{
+
+    $content = "";
+    $content .= "
+    <div class='row schedule-item'>
+        <div class='col-12 col-md-2 mt-1'>" . $time . "</div>
+        <div class='col-12 col-md-10'>
+            <p class='title'>" . $title . "</p>";
+
+    if (sizeof($desc) > 0 && empty($topic)) {
+        foreach ($desc as $v) {
+            $content .= " <p class='desc'> - " . $v . "</p>";
+        }
+    }
+
+    if ($presencial === true) {
+        $content .= "<p class='flag presencial'>Presencial</p>";
+    }
+
+    if ($online === true) {
+        $content .= "<p class='flag online'>On-line</p>";
+    }
+
+    if (!empty($topic)) {
+        $content .= "<h3 class='topic mt-2'>" . $topic . "</h3>";
+    }
+
+    if (sizeof($desc) > 0 && !empty($topic)) {
+        $content .= "<div class='topic-container py-2'>";
+        foreach ($desc as $v) {
+            $content .= "<p class='desc'> - " . $v . "</p>";
+        }
+        $content .= "</div>";
+    }
+
+    $content .= "
+        </div>
+    </div>";
+
+    return $content;
+}
