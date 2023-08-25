@@ -13,6 +13,15 @@ jQuery(document).ready(function () {
     slidesToScroll: 1,
   });
 
+  jQuery("#segundo-dia, #primeiro-dia").on("click", function () {
+    jQuery([document.documentElement, document.body]).animate(
+      {
+        scrollTop: jQuery(this).offset().top - 150,
+      },
+      0
+    );
+  });
+
   // jQuery(".sponsor .row div.p-master").slick({
   //   variableWidth: true,
   //   infinite: false,
@@ -68,7 +77,7 @@ jQuery(document).ready(function () {
   var tooltipTriggerList = [].slice.call(
     document.querySelectorAll('[data-bs-toggle="tooltip"]')
   );
-  var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  tooltipTriggerList.map(function (tooltipTriggerEl) {
     return new bootstrap.Tooltip(tooltipTriggerEl);
   });
 

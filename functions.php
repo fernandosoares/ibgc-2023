@@ -146,7 +146,7 @@ function ibgc_get_speakers()
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/fernando-bonfim-foto-congresso.png',
             'name' => 'Fernando Bonfim',
-            'position' => '',
+            'position' => 'Produtor de cacau da Bahia',
             'linkedin' => ''
         ],
         [
@@ -321,7 +321,7 @@ function ibgc_get_speakers()
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/roberto-waack-foto-congresso.png',
-            'name' => 'Roberto Waak',
+            'name' => 'Roberto Waack',
             'position' => 'Presidente do conselho do Instituto Arapyau',
             'linkedin' => ''
         ],

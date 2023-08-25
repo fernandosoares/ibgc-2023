@@ -33,15 +33,16 @@
     <div class="container-fluid sponsor bronze">
         <div class="row">
             <div class="col-12 d-flex flex-wrap align-items-center justify-content-center p-bronze">
+                <a href="https://welcome.atlasgov.com/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/atlas-gov.png' ?>" alt="">
+                </a>
                 <a href="https://www.grantthornton.com.br/" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/bronze-grant.png' ?>" alt="">
                 </a>
                 <a href="https://www.marsh.com/br/home.html" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressomarsh-patrocinio-bronze.png' ?>" alt="">
                 </a>
-                <a href="https://welcome.atlasgov.com/" target="_blank" rel="noopener noreferrer">
-                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/atlas-gov.png' ?>" alt="">
-                </a>
+
                 <a href="https://gruporeport.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/grupo-report.png' ?>" alt="">
                 </a>
@@ -54,6 +55,9 @@
     <div class="container-fluid sponsor plus">
         <div class="row">
             <div class="col-12 d-flex flex-wrap align-items-center justify-content-center p-plus">
+                <a href="https://www.cielo.com.br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/cielo.png' ?>" alt="">
+                </a>
                 <a href="https://embraer.com/br/pt" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/plus-embraer.png' ?>" alt="">
                 </a>
@@ -69,9 +73,7 @@
                 <a href="https://www.talentoincluir.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressotalento-patrocinio-plus.png' ?>" alt="">
                 </a>
-                <a href="https://www.cielo.com.br/" target="_blank" rel="noopener noreferrer">
-                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/cielo.png' ?>" alt="">
-                </a>
+
             </div>
         </div>
     </div>

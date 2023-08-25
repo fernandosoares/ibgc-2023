@@ -22,7 +22,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">09h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Credenciamento e welcome coffee</p>
+                                    <p class="title">Credenciamento e <em>welcome coffee</em></p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -61,9 +61,9 @@
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">11h40h</div>
+                                <div class="col-12 col-md-2 mt-1">11h40</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Grupo Boticário: governança de stakeholders e impacto multidimensional</p>
+                                    <p class="title">Grupo Boticário: governança de <em>stakeholders</em> e impacto multidimensional</p>
                                     <p class="desc"> - Fernando Modé, CEO do Grupo Boticário</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -79,7 +79,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">13h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Masterclasses <em>(A definir)</em></p>
+                                    <p class="title"><em>Masterclasses (A definir)</em></p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">14h30</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title mb-0">Breakout sessions | Desafios contemporâneos das empresas familiares</p>
+                                    <p class="title mb-0"><em>Breakout sessions<em> | Desafios contemporâneos das empresas familiares</p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
@@ -131,7 +131,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">15h15</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title mb-0">Breakout sessions</p>
+                                    <p class="title mb-0"><em>Breakout sessions<em></p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
@@ -229,7 +229,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">18h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Papéis e deveres do acionista de referência</p>
+                                    <p class="title">Papel e deveres do acionista de referência</p>
                                     <p class="desc"> - <em>A definir</em></p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -251,7 +251,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">19h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Happy hour</p>
+                                    <p class="title"><em>Happy hour<em></p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -280,7 +280,7 @@
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">8h30h</div>
+                                <div class="col-12 col-md-2 mt-1">8h30</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Abertura</p>
                                     <p class="flag presencial">Presencial</p>
@@ -400,23 +400,22 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">14h30</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title mb-0">Breakout sessions</p>
+                                    <p class="title mb-0"><em>Breakout sessions</em></p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
 
-                                    <h3 class="topic mt-4 gray">Saúde mental e burnout digital na pauta do conselho?</h3>
+                                    <h3 class="topic mt-4">Saúde mental e <em>burnout</em> digital na pauta do conselho?</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Sergio Piza, sócio fundador da Piza Advisors</p>
                                     </div>
 
-                                    <h3 class="topic mt-4 gray">Impacto social e ética algorítmica</h3>
+                                    <h3 class="topic mt-4">Impacto social e ética algorítmica</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Juliana Custódio, gerente geral de dados na PagBank</p>
                                         <p class="desc"> - Moderação: Andreza Rocha, fundadora e diretora executiva AfrOya Tech
                                             Hub</p>
                                     </div>
-
                                 </div>
                             </div>
 

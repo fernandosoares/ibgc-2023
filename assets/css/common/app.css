@@ -1,33 +1,35 @@
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 *,
 html,
 body {
-    font-family: 'TT Commons', sans-serif;
+  font-family: "TT Commons", sans-serif;
 }
 
 section {
-    scroll-margin-top: 139px;
+  scroll-margin-top: 123px;
 }
 
-#congressos .slick-prev:before, #congressos .slick-next:before {
-    color: #fff !important;
-    font-size: 42px;
+#congressos .slick-prev:before,
+#congressos .slick-next:before {
+  color: #fff !important;
+  font-size: 42px;
 }
 
-#palestrantes .slick-prev:before, #palestrantes .slick-next:before {
-    color: #000 !important;
-    font-size: 42px;
+#palestrantes .slick-prev:before,
+#palestrantes .slick-next:before {
+  color: #000 !important;
+  font-size: 42px;
 }
 
 .slick-prev {
-    left: -55px;
+  left: -55px;
 }
 
 .slick-next {
-    right: -35px;
+  right: -35px;
 }
 
 textarea:hover,
@@ -42,7 +44,7 @@ button:hover,
 label:focus,
 .btn:active,
 .btn.active {
-    outline: 0px !important;
-    -webkit-appearance: none;
-    box-shadow: none !important;
+  outline: 0px !important;
+  -webkit-appearance: none;
+  box-shadow: none !important;
 }

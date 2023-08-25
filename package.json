@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "deploy": "./node_modules/.bin/firebase deploy --only hosting",
-    "ship": "cd build && zip -r ibgc-package.zip * && cp ibgc-latest-package.zip /mnt/c/Users/brfso/OneDrive/Documentos/Freelas/IBGC/2023/"
+    "ship": "cd build && zip -r ibgc-latest-package.zip * && cp ibgc-latest-package.zip /mnt/c/Users/brfso/OneDrive/Documentos/Freelas/IBGC/2023/ && cd .. && rm -rf build/"
   },
   "devDependencies": {
     "firebase-tools": "^12"
