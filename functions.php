@@ -310,7 +310,7 @@ function ibgc_get_speakers()
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/r-edward-freeman-foto-congresso.png',
             'name' => 'R. Edward Freeman',
-            'position' => '',
+            'position' => 'Professor emérito de administração de empresas, Darden School of Business, Universidade de Virgínia',
             'linkedin' => 'https://linkedin.com/in/r-edward-freeman-98b8897'
         ],
         [

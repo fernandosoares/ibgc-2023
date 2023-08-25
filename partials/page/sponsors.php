@@ -39,12 +39,11 @@
                 <a href="https://www.grantthornton.com.br/" target="_blank">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/bronze-grant.png' ?>" alt="">
                 </a>
-                <a href="https://www.marsh.com/br/home.html" target="_blank">
-                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressomarsh-patrocinio-bronze.png' ?>" alt="">
-                </a>
-
                 <a href="https://gruporeport.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/grupo-report.png' ?>" alt="">
+                </a>
+                <a href="https://www.marsh.com/br/home.html" target="_blank">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressomarsh-patrocinio-bronze.png' ?>" alt="">
                 </a>
             </div>
         </div>
