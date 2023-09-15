@@ -54,8 +54,10 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">11h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Integridade como princípio</p>
+                                    <p class="title">O caráter da Organização</p>
+                                    <p class="desc"> - George Dallas, Head of Content, European Corporate Governance Institute</p>
                                     <p class="desc"> - Alexandre Di Miceli, sócio fundador da Virtuous Company</p>
+                                    <p class="desc"> - Moderação: Sandra Boccia, diretora de Editorial de Marcas e Projetos Especiais da Editora Globo</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -63,7 +65,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">11h40</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Grupo Boticário: governança de <em>stakeholders</em> e impacto multidimensional</p>
+                                    <p class="title">Governança de <em>stakeholders</em> e impacto multidimensional</p>
                                     <p class="desc"> - Fernando Modé, CEO do Grupo Boticário</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -93,14 +95,14 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">14h30</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title mb-0"><em>Breakout sessions<em> | Desafios contemporâneos das empresas familiares</p>
+                                    <p class="title mb-0"><em>Breakout sessions<em> | Desafios contemporâneos das empresas familiares:</p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
                                     <h3 class="topic mt-4 gray">Piccadilly</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Cristine Grings Nogueira, CEO da Piccadilly Company</p>
-                                        <p class="desc"> - Marcelo Favieiro, presidente do conselho de administração da Piccadilly @ Co.</p>
+                                        <p class="desc"> - Marcelo Favieiro, presidente do conselho de administração da Piccadilly Company</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Grupo Zilor</h3>
@@ -136,7 +138,7 @@
 
                                     <p class="flag presencial">Presencial</p>
 
-                                    <h3 class="topic mt-4 black">Litigância climática e responsabilidade dos administradores</h3>
+                                    <h3 class="topic mt-4 black">Litigância climática e a responsabilidade dos administradores</h3>
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Roberto Waack, presidente do conselho do Instituto Arapyaú</p>
                                         <p class="desc"> - Joana Setzer, professora e pesquisadora no Grantham Research
@@ -154,7 +156,7 @@
                                             CarbonCreditMarkets.com; consultor na Damasceno &amp; Oliva Consulting</p>
                                     </div>
 
-                                    <h3 class="topic mt-4 black">Alterações na lei societária e proteção dos investidores</h3>
+                                    <h3 class="topic mt-4 black">Alterações na lei societária e a proteção dos investidores</h3>
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Pedro Rudge, sócio fundador da Leblon Equities</p>
                                         <p class="desc"> - Otavio Yazbek, sócio do Yazbek Advogados</p>
@@ -186,7 +188,7 @@
                                 <div class="col-12 col-md-2 mt-1">16h20</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">O ESG e a relação com os <em>stakeholders</em> na estratégia do negócio</p>
-                                    <p class="desc"> - Juliana Rozenbaum, conselheira de empresas (Lojas Renner, Cogna,
+                                    <p class="desc"> - Juliana Rozenbaum, conselheira de empresas (Dengo, Lojas Renner, Cogna,
                                         Dexco, EDP Brasil, Eurofarma, Dengo, NK e GoCase), além de mentora
                                         Endeavor</p>
                                     <p class="desc"> - Estevan Sartorelli, cofundador e co-CEO da Dengo Chocolates</p>
@@ -214,8 +216,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">17h20</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Novas competências necessárias para o conselho pelos olhos do
-                                        PCA</p>
+                                    <p class="title">Novas competências para o conselho: a visão do presidente</p>
                                     <p class="desc"> - Alexandre Silva, presidente do conselho de administração da Embraer</p>
                                     <p class="desc"> - Ana Karina Bortoni, presidente do conselho da 2W Ecobank e presidente
                                         do conselho da Biolab Farmacêutica</p>
@@ -230,7 +231,9 @@
                                 <div class="col-12 col-md-2 mt-1">18h</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Papel e deveres do acionista de referência</p>
-                                    <p class="desc"> - <em>A definir</em></p>
+                                    <p class="desc"> - Camilo Marcantonio, sócio fundador e gestor da Charles River Capital</p>
+                                    <p class="desc"> - Brunella Isper J. Gomide, diretora de Investimentos da Abrdn</p>
+                                    <p class="desc"> - Moderação: Daniel Alves Ferreira, sócio de Alves Ferreira e Mesquita Sociedade de Advogados</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -239,7 +242,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">18h30</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Remuneração executiva em um contexto de Governança em Rede</p>
+                                    <p class="title">Remuneração executiva em um contexto de governança em rede</p>
                                     <p class="desc"> - Joaquim Rubens, professor e consultor na Fundação Getulio
                                         Vargas/EBAPE</p>
                                     <p class="desc"> - Moderação: Mariana Barbosa, colunista do jornal O Globo</p>
@@ -299,7 +302,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">9h10</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Direitos Humanos na estratégia das organizações</p>
+                                    <p class="title">Direitos humanos na estratégia das organizações</p>
                                     <p class="desc"> - <em>A definir</em></p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -309,38 +312,43 @@
                                 <div class="col-12 col-md-2 mt-1">9h30</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Economia exponencial</p>
-                                    <p class="desc"> - Eduardo Ibrahim, especialista em IA e economia da Singularity e CEO
+                                    <p class="desc"> - Eduardo Ibrahim, especialista em inteligência artificial e economia da Singularity e CEO
                                         da Exonomics</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">10h</div>
+                                <div class="col-12 col-md-2 mt-1">09h55</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">ESG &amp; <em>Stewardship</em> - o papel dos investidores</p>
-                                    <p class="desc"> - George Dallas, <em>Head of Content, European Corporate Governance
-                                            Institute</em></p>
+                                    <p class="title"><em>Coffee break</em></p>
+                                    <p class="flag presencial">Presencial</p>
+                                </div>
+                            </div>
+                            <div class="row schedule-item">
+                                <div class="col-12 col-md-2 mt-1">10h25</div>
+                                <div class="col-12 col-md-10">
+                                    <p class="title">ESG &amp; <em>Stewardship</em>: o papel dos investidores</p>
+                                    <p class="desc"> - Denise Pavarina, conselheira do Banco Bradesco S.A.</p>
                                     <p class="desc"> - Daniel Izzo, CEO da Vox Capital</p>
                                     <p class="desc"> - Moderação: Mauro Rodrigues da Cunha, membro do conselho de
-                                        administração de Embraer, Klabin, AES e Hypera Pharm; ex-presidente da
-                                        Amec e ex-presidente do conselho de administração do IBGC</p>
+                                        administração de Embraer, Klabin, AES e Hypera Pharma; ex-presidente da
+                                        Amec do conselho de administração do IBGC</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">10h40</div>
+                                <div class="col-12 col-md-2 mt-1">10h55</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Olhando para o final da cadeia: os <em>no-holders</em></p>
-                                    <p class="desc"> - João Biarari, founder e CEO do Meu Chapa</p>
-                                    <p class="desc"> - Guilherme Fernandes, founder e CTO do Meu Chapa</p>
+                                    <p class="desc">Moderação: João Biarari, founder e CEO da Meu Chapa</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">11h25</div>
+                                <div class="col-12 col-md-2 mt-1">11h45</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title mb-0"><em>Breakout sessions</em> | Governança em <em><b>startups</b></em></p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
@@ -350,8 +358,7 @@
                                     <h3 class="topic mt-4 gray">Nude</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Giovanna Meneghel, CEO e co-fundadora da Nude</p>
-                                        <p class="desc"> - Lívia Brando, conselheira da Nude e sócia-diretora de Venture Capital,
-                                            Vox Capital.</p>
+                                        <p class="desc"> - Lívia Brando, conselheira da Nude e sócia-diretora de Venture Capital da Vox Capital.</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Pantys</h3>
@@ -363,26 +370,30 @@
                                     <h3 class="topic mt-4">Linker</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Ingrid Barth, COO do Linker</p>
+                                        <p class="desc"> - Moderação: Marcela Flores, diretora presidente da ANPEI e conselheira
+                                            deliberativa do SEBRAE Nacional e SEBRAE São Paulo</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Muda meu Mundo</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Priscilla Veras, CEO &amp; founder do Muda meu Mundo</p>
                                         <p class="desc"> - Laís Xavier, CTO do Muda meu Mundo</p>
+                                        <p class="desc"> - Moderação: Fernando Wagner da Silva, sócio e Head de Venture Capital na
+                                            Crescera Capital</p>
                                     </div>
 
                                 </div>
                             </div>
 
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">12h</div>
+                                <div class="col-12 col-md-2 mt-1">12h15</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Almoço</p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">13h</div>
+                                <div class="col-12 col-md-2 mt-1">13h10</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title"><em>Masterclasses (A definir)</em></p>
                                     <p class="flag presencial">Presencial</p>
@@ -390,7 +401,7 @@
                             </div>
 
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">14h</div>
+                                <div class="col-12 col-md-2 mt-1">14h10</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Feria de negócios</p>
                                     <p class="flag presencial">Presencial</p>
@@ -405,15 +416,23 @@
 
                                     <p class="flag presencial">Presencial</p>
 
-                                    <h3 class="topic mt-4">Saúde mental e <em>burnout</em> digital na pauta do conselho?</h3>
+                                    <h3 class="topic mt-4">Bem estar, saúde mental e <em>burnout</em> digital: pautas do Conselho?</h3>
                                     <div class="topic-container b-gray py-2">
-                                        <p class="desc"> - Sergio Piza, sócio fundador da Piza Advisors</p>
+                                        <p class="desc"> - João Kohn, diretor geral Betterfly Brasil</p>
+                                        <p class="desc"> - Toya Lorch, sócia fundadora da Get Ahead Saúde Mental no Trabalho e sócia da Edge Desenvolvimento e Governança</p>
+                                        <p class="desc"> - Moderação: Sergio Piza, sócio fundador da Piza Advisors</p>
+                                    </div>
+
+                                    <h3 class="topic mt-4">Transição Ecológica, comportamento e circularidade</h3>
+                                    <div class="topic-container b-gray py-2">
+                                        <p class="desc"> - JRicardo Mussa, CEO da Raízen S/A</p>
+                                        <p class="desc"> - Moderação: Anelise Lara, conselheira independente da TotalEnergies</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Impacto social e ética algorítmica</h3>
                                     <div class="topic-container b-gray py-2">
-                                        <p class="desc"> - Juliana Custódio, gerente geral de dados na PagBank</p>
-                                        <p class="desc"> - Moderação: Andreza Rocha, fundadora e diretora executiva AfrOya Tech
+                                        <p class="desc"> - Juliana Custódio, gerente geral de dados da PagBank</p>
+                                        <p class="desc"> - Moderação: Andreza Rocha, fundadora e diretora executiva da AfrOya Tech
                                             Hub</p>
                                     </div>
                                 </div>
@@ -437,9 +456,10 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">16h30</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">O impacto da inteligência artificial nos negócios de hoje e do
-                                        futuro</p>
-                                    <p class="desc"> - Tânia Cosentino, presidente da Microsoft Brasil</p>
+                                    <p class="title">Gestão de riscos cibernéticos: desafios e lições aprendidas pelos Conselhos</p>
+                                    <p class="desc"> - Fernando L. Alberto, vice-presidente do Conselho de Administração do
+                                        Grupo Fleury, coordenador da Comissão de Saúde e membro da Comissão
+                                        Conselho do Futuro do IBGC</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -449,7 +469,7 @@
                                 <div class="col-12 col-md-2 mt-1">16h50</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Governança da inteligência artificial</p>
-                                    <p class="desc"> - <em>(A definir)</em></p>
+                                    <p class="desc"> - Cezar Taurion, Chief Strategy Officer (CSO) da Redcore</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -461,6 +481,17 @@
                                     <p class="title">Gestão de riscos cibernéticos: desafios e lições aprendidas pelos
                                         conselhos</p>
                                     <p class="desc"> - <em>(A definir)</em></p>
+                                    <p class="flag presencial">Presencial</p>
+                                    <p class="flag online">On-line</p>
+                                </div>
+                            </div>
+
+                            <div class="row schedule-item">
+                                <div class="col-12 col-md-2 mt-1">17h40</div>
+                                <div class="col-12 col-md-10">
+                                    <p class="title">O impacto da inteligência artificial nos negócios de hoje e do
+                                        futuro</p>
+                                    <p class="desc"> - Tânia Cosentino, presidente da Microsoft Brasil</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -483,7 +514,7 @@
 
             </div>
 
-            <small>Programação sujeita a alterações sem aviso prévio. Breakout sessions, masterclasses e feira de negócios só estão acessíveis na modalidade presencial. Sessões plenárias terão tradução inglês-português e libras.</small>
+            <small>Programação sujeita a alterações sem aviso prévio. Breakout sessions, masterclasses e feira de negócios só estão acessíveis na modalidade presencial. Sessões plenárias terão tradução simultânea inglês-português e libras.</small>
 
             <div class="col-12 text-center mt-5">
                 <a href="mailto:paula.scalco@ibgc.org.br" class="cta-corporativa">Inscrição corporativa de grupos. Solicite sua proposta</a>
