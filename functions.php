@@ -60,6 +60,12 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/ada-mota-12688415/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-AleliseLara.png',
+            'name' => 'Anelise Lara',
+            'position' => 'Conselheira independente da TotalEnergies',
+            'linkedin' => ''
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/alexandre-di-miceli-foto-congresso.png',
             'name' => 'Alexandre Di Miceli',
             'position' => 'Sócio fundador da Virtuous Company',
@@ -90,6 +96,18 @@ function ibgc_get_speakers()
             'linkedin' => 'http://www.linkedin.com/in/andrezarocha'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-BrunellaIsper.png',
+            'name' => 'Brunella Isper J. Gomide',
+            'position' => 'Diretora de Investimentos da Abrdn',
+            'linkedin' => ''
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-CamiloMarcantonio.png',
+            'name' => 'Camilo Marcantonio',
+            'position' => 'sócio fundador e gestor da Charles River Capital',
+            'linkedin' => 'https://www.linkedin.com/in/camilomarcantonio/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/cezar-taurion-foto-congresso.png',
             'name' => 'Cezar Taurion',
             'position' => 'Chief Strategy Officer (CSO) da Redcore',
@@ -108,6 +126,30 @@ function ibgc_get_speakers()
             'linkedin' => 'https://br.linkedin.com/in/cristine-grings-nogueira-005a93170'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/cristine.png',
+            'name' => 'Daniel Alves Ferreira',
+            'position' => 'Sócio da Alves Ferreira e Mesquita Sociedade de Advogados',
+            'linkedin' => 'https://www.linkedin.com/in/daniel-alves-ferreira-78543217/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DanielAlves.png',
+            'name' => 'Daniel Alves Ferreira',
+            'position' => 'Sócio da Alves Ferreira e Mesquita Sociedade de Advogados',
+            'linkedin' => 'https://www.linkedin.com/in/daniel-alves-ferreira-78543217/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DanielIzzo.png',
+            'name' => 'Daniel Izzo',
+            'position' => 'CEO da Vox Capital',
+            'linkedin' => 'https://www.linkedin.com/in/danielizzo/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DenisePavarina.png',
+            'name' => 'Denise Pavarina',
+            'position' => 'Conselheira do Banco Bradesco S.A.',
+            'linkedin' => 'https://www.linkedin.com/in/denise-pavarina-983ab1212/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/edgard.png',
             'name' => 'Edgard Gouveia Júnior',
             'position' => 'Presidente da Epic Journey e fundador da Livelab',
@@ -119,12 +161,12 @@ function ibgc_get_speakers()
             'position' => 'Especialista em IA e economia da Singularity University e CEO da Exonomics',
             'linkedin' => 'https://www.linkedin.com/in/eduibrahim/'
         ],
-        [
-            'picture' => get_template_directory_uri() . '/assets/img/2023/ed-hess-foto-congresso.png',
-            'name' => 'Edward D. Hess',
-            'position' => 'Professor emérito de administração de empresas, Darden School of Business, Universidade da Virgínia',
-            'linkedin' => 'https://linkedin.com/in/edward-hess-41638b16'
-        ],
+        // [
+        //     'picture' => get_template_directory_uri() . '/assets/img/2023/ed-hess-foto-congresso.png',
+        //     'name' => 'Edward D. Hess',
+        //     'position' => 'Professor emérito de administração de empresas, Darden School of Business, Universidade da Virgínia',
+        //     'linkedin' => 'https://linkedin.com/in/edward-hess-41638b16'
+        // ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/elisa-leonel-foto-congresso.png',
             'name' => 'Elisa Leonel',
@@ -162,6 +204,12 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/flavia-mouta-2a1b31122/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-FernandoWagner.png',
+            'name' => 'Fernando Wagner da Silva',
+            'position' => 'Sócio e Head de Venture Capital na Crescera Capital',
+            'linkedin' => 'https://www.linkedin.com/in/fernandowagner/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/gabriela-baumgart-foto-congresso.png',
             'name' => 'Gabriela Baumgart',
             'position' => 'Conselheira de administração do Grupo Baumgart; presidente do conselho do IBGC',
@@ -191,12 +239,12 @@ function ibgc_get_speakers()
             'position' => 'Senior Client Partner & Board Services COE Member da Korn Ferry',
             'linkedin' => 'https://www.linkedin.com/in/glaucybocci/'
         ],
-        [
-            'picture' => get_template_directory_uri() . '/assets/img/2023/guilherme-fernandes-foto-congresso.png',
-            'name' => 'Guilherme Fernandes',
-            'position' => 'Founder & CTO do Meu Chapa',
-            'linkedin' => 'https://www.linkedin.com/in/guilhermederesendefernandes/'
-        ],
+        // [
+        //     'picture' => get_template_directory_uri() . '/assets/img/2023/guilherme-fernandes-foto-congresso.png',
+        //     'name' => 'Guilherme Fernandes',
+        //     'position' => 'Founder & CTO do Meu Chapa',
+        //     'linkedin' => 'https://www.linkedin.com/in/guilhermederesendefernandes/'
+        // ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/guillaume-legare-foto-congresso.png',
             'name' => 'Guillaume Légaré',
@@ -220,6 +268,12 @@ function ibgc_get_speakers()
             'name' => 'João Biarari',
             'position' => 'Founder & CEO do Meu Chapa',
             'linkedin' => 'https://www.linkedin.com/in/joaobiarari/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-JoaoKohn.png',
+            'name' => 'João Kohn',
+            'position' => 'Diretor geral Betterfly Brasil',
+            'linkedin' => 'https://www.linkedin.com/in/joaokohn/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/joaquim-rubens-foto-congresso.png',
@@ -290,6 +344,18 @@ function ibgc_get_speakers()
             'linkedin' => ''
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-MarianaBarbosa.png',
+            'name' => 'Mariana Barbosa',
+            'position' => 'Colunista do jornal O Globo',
+            'linkedin' => 'https://www.linkedin.com/in/marianaccbarbosa/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-MauroRodriguesdaCunha.png',
+            'name' => 'Mauro Rodrigues da Cunha',
+            'position' => 'Membro do conselho de administração da Embraer, Klabin, AES e Hypera Pharma; ex-presidente da Amec e do conselho de administração do IBGC',
+            'linkedin' => 'https://www.linkedin.com/in/mauro-rodrigues-da-cunha-nacd-dc-1114b28/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/otavio-yazbek-foto-congresso.png',
             'name' => 'Otávio Yazbek',
             'position' => 'Sócio do Yazbek Advogados',
@@ -324,6 +390,12 @@ function ibgc_get_speakers()
             'name' => 'Roberto Waack',
             'position' => 'Presidente do conselho do Instituto Arapyau',
             'linkedin' => ''
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-SandraBoccia.png',
+            'name' => 'Sandra Boccia',
+            'position' => 'Diretora de Editorial de Marcas e Projetos Especiais da Editora Globo',
+            'linkedin' => 'https://www.linkedin.com/in/sandra-boccia-44595876/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/sandro-magaldi-foto-congresso.png',
