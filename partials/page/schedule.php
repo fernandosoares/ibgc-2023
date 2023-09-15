@@ -333,7 +333,7 @@
                                     <p class="desc"> - Daniel Izzo, CEO da Vox Capital</p>
                                     <p class="desc"> - Moderação: Mauro Rodrigues da Cunha, membro do conselho de
                                         administração de Embraer, Klabin, AES e Hypera Pharma; ex-presidente da
-                                        Amec do conselho de administração do IBGC</p>
+                                        Amec e do conselho de administração do IBGC</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -423,6 +423,13 @@
                                         <p class="desc"> - Moderação: Sergio Piza, sócio fundador da Piza Advisors</p>
                                     </div>
 
+                                    <h3 class="topic mt-4">Agricultura regenerativa: novas soluções e o papel estratégico do país</h3>
+                                    <div class="topic-container b-gray py-2">
+                                        <p class="desc"> - Moderação: Tarcila Ursini, conselheira Independente (eB Capital, Vivara,
+                                            Agrogalaxy, Korin), Sistema B/Blab; Ethos, ICCB, Chapter Zero IBGC/FEM.
+                                            Professora ESG e Sustentabilidade no IBGC</p>
+                                    </div>
+
                                     <h3 class="topic mt-4">Transição Ecológica, comportamento e circularidade</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - JRicardo Mussa, CEO da Raízen S/A</p>
@@ -445,7 +452,7 @@
                                         governança</p>
                                     <p class="desc"> - George Dallas, <em>Head of Content, European Corporate Governance
                                             Institute</em></p>
-                                    <p class="desc"> - Guillaume Legare, <em>Head, South America, Toronto Stock Exchange &amp;
+                                    <p class="desc"> - Guillaume Legare, <em>Head South America da Toronto Stock Exchange &amp;
                                             TSX Venture Exchange</em></p>
                                     <p class="desc"> - Moderação: Flavia Mouta, diretora de Emissores da B3</p>
                                     <p class="flag presencial">Presencial</p>

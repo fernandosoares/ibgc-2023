@@ -10,7 +10,6 @@
             <div class="col-12 col-md-4">
                 <p>Gabriela Blanchet</p>
                 <p>Antônio Bizzo</p>
-                <p>Carlos Mendonça</p>
                 <p>Chantal Pillet</p>
                 <p>Clarice Martins Costa</p>
             </div>
