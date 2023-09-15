@@ -332,7 +332,7 @@
                                     <p class="desc"> - Denise Pavarina, conselheira do Banco Bradesco S.A.</p>
                                     <p class="desc"> - Daniel Izzo, CEO da Vox Capital</p>
                                     <p class="desc"> - Moderação: Mauro Rodrigues da Cunha, membro do conselho de
-                                        administração de Embraer, Klabin, AES e Hypera Pharma; ex-presidente da
+                                        administração da Embraer, Klabin, AES e Hypera Pharma; ex-presidente da
                                         Amec e do conselho de administração do IBGC</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
