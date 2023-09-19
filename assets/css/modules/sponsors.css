@@ -30,20 +30,27 @@
   background-size: 140px;
 }
 
+#patrocinadores .sponsor.ouro {
+  background: url(../../img/2023/ouro.png) no-repeat left;
+
+  background-size: 140px;
+}
+
 #patrocinadores .sponsor.prata {
   background: url(../../img/2023/prata.png) no-repeat left;
-
+  background-color: #e5e5e5;
   background-size: 140px;
 }
 
 #patrocinadores .sponsor.bronze {
   background: url(../../img/2023/bronze.png) no-repeat left;
-  background-color: #e5e5e5;
+
   background-size: 140px;
 }
 
 #patrocinadores .sponsor.plus {
   background: url(../../img/2023/plus.png) no-repeat left;
+  background-color: #e5e5e5;
   background-size: 140px;
 }
 

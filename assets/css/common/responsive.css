@@ -194,21 +194,29 @@
     background-size: 35%;
   }
 
+  #patrocinadores .sponsor.ouro {
+    background: url(../../img/2023/_ouro.png) no-repeat top center;
+
+    background-size: 35%;
+  }
+
   #patrocinadores .sponsor.prata {
     background: url(../../img/2023/_prata.png) no-repeat top center;
     background-color: #fff;
+    background-color: #e5e5e5;
     background-size: 35%;
   }
 
   #patrocinadores .sponsor.bronze {
     background: url(../../img/2023/_bronze.png) no-repeat top center;
-    background-color: #e5e5e5;
+
     background-size: 35%;
   }
 
   #patrocinadores .sponsor.plus {
     background: url(../../img/2023/_plus.png) no-repeat top center;
     background-color: #fff;
+    background-color: #e5e5e5;
     background-size: 35%;
   }
 
