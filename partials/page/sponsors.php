@@ -82,6 +82,9 @@
                 <a href="https://www.talentoincluir.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressotalento-patrocinio-plus.png' ?>" alt="">
                 </a>
+                <a href="https://www.lcrcapital.com/br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoLCR-patrocinio-plus.png' ?>" alt="">
+                </a>
 
             </div>
         </div>
@@ -101,6 +104,12 @@
                 <h2 class="mb-0">Apoio</h2>
                 <a href="http://www.revistari.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/RI.png' ?>" alt="">
+                </a>
+                <a href="https://www.fbn-br.org.br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoFBN-patrocinio-Apoio.png' ?>" alt="">
+                </a>
+                <a href="https://wcdglobal.org/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoWCD-patrocinio-Apoio.png' ?>" alt="">
                 </a>
             </div>
         </div>
