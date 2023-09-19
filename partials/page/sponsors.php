@@ -101,7 +101,7 @@
     <div class="container my-5">
         <div class="row">
             <div class="col-12 text-center mt-3">
-                <h2 class="mb-0">Apoio</h2>
+                <h2 class="mb-5">Apoio</h2>
                 <a href="http://www.revistari.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/RI.png' ?>" alt="">
                 </a>
