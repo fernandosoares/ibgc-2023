@@ -126,12 +126,6 @@ function ibgc_get_speakers()
             'linkedin' => 'https://br.linkedin.com/in/cristine-grings-nogueira-005a93170'
         ],
         [
-            'picture' => get_template_directory_uri() . '/assets/img/2023/cristine.png',
-            'name' => 'Daniel Alves Ferreira',
-            'position' => 'Sócio da Alves Ferreira e Mesquita Sociedade de Advogados',
-            'linkedin' => 'https://www.linkedin.com/in/daniel-alves-ferreira-78543217/'
-        ],
-        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DanielAlves.png',
             'name' => 'Daniel Alves Ferreira',
             'position' => 'Sócio da Alves Ferreira e Mesquita Sociedade de Advogados',

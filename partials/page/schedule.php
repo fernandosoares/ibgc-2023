@@ -35,14 +35,6 @@
                                 </div>
                             </div>
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">10h20</div>
-                                <div class="col-12 col-md-10">
-                                    <p class="title">A definir</p>
-                                    <p class="flag presencial">Presencial</p>
-                                    <p class="flag online">On-line</p>
-                                </div>
-                            </div>
-                            <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">10h40</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Teoria dos <em>stakeholders</em></p>
@@ -57,7 +49,7 @@
                                     <p class="title">O caráter da Organização</p>
                                     <p class="desc"> - George Dallas, Head of Content, European Corporate Governance Institute</p>
                                     <p class="desc"> - Alexandre Di Miceli, sócio fundador da Virtuous Company</p>
-                                    <p class="desc"> - Moderação: Sandra Boccia, diretora de Editorial de Marcas e Projetos Especiais da Editora Globo</p>
+                                    <p class="desc"> - Moderação: Sandra Boccia, <em>Board member and sustainability advocate</em></p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -65,7 +57,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">11h40</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Governança de <em>stakeholders</em> e impacto multidimensional</p>
+                                    <p class="title">Grupo Boticário: governança na cadeia de valor e impacto multidimensional</p>
                                     <p class="desc"> - Fernando Modé, CEO do Grupo Boticário</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -95,7 +87,7 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">14h30</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title mb-0"><em>Breakout sessions<em> | Desafios contemporâneos das empresas familiares:</p>
+                                    <p class="title mb-0"><em>Breakout sessions<em> | Desafios contemporâneos das empresas familiares</p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
 
                                     <p class="flag presencial">Presencial</p>
@@ -103,6 +95,8 @@
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Cristine Grings Nogueira, CEO da Piccadilly Company</p>
                                         <p class="desc"> - Marcelo Favieiro, presidente do conselho de administração da Piccadilly Company</p>
+                                        <p class="desc"> - Moderação: Claudia Elisa Soares, conselheira do IBGC, da Camil Alimentos, da BP São Paulo
+                                            e Presidente do Conselho do Grupo Cassol</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Grupo Zilor</h3>
@@ -118,6 +112,7 @@
                                         <p class="desc"> - Dra. Ada Mota, sócia e presidente do Grupo Adcos</p>
                                         <p class="desc"> - Lucas Mota Soares, sócio-diretor do Grupo Adcos</p>
                                         <p class="desc"> - Victor Mota Soares, diretor de Tecnologia do Grupo Adcos</p>
+                                        <p class="desc"> - Moderação: Deborah Wright, conselheira de administração do IBGC</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Évora S.A.</h3>
@@ -131,7 +126,7 @@
                             </div>
 
                             <div class="row schedule-item">
-                                <div class="col-12 col-md-2 mt-1">15h15</div>
+                                <div class="col-12 col-md-2 mt-1">15h10</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title mb-0"><em>Breakout sessions<em></p>
                                     <small class="d-block mb-3">(Sessões simultâneas)</small>
@@ -160,7 +155,8 @@
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Pedro Rudge, sócio fundador da Leblon Equities</p>
                                         <p class="desc"> - Otavio Yazbek, sócio do Yazbek Advogados</p>
-                                        <p class="desc"> - Moderação: Cristiana Pereira, conselheira e sócia da Ace Governance</p>
+                                        <p class="desc"> - João Pedro Nascimento, Presidente da CVM</p>
+                                        <p class="desc"> - Moderação: Cristiana Pereira, conselheira de empresas e sócia da Ace Governance</p>
                                     </div>
 
                                     <h3 class="topic mt-4 black">Governo e impactos da Lei das Estatais</h3>
@@ -192,7 +188,7 @@
                                         Dexco, EDP Brasil, Eurofarma, Dengo, NK e GoCase), além de mentora
                                         Endeavor</p>
                                     <p class="desc"> - Estevan Sartorelli, cofundador e co-CEO da Dengo Chocolates</p>
-                                    <p class="desc"> - Fernando Bonfim, produtor de cacau da Bahia</p>
+                                    <p class="desc"> - Fernando Bonfim, produtor de cacau na Bahia</p>
                                     <p class="desc"> - Moderação: Ricardo Young, líder da Comunidade ESG do IBGC,
                                         membro do Comitê Executivo do Chapter Zero Brazil, empresário, consultor de
                                         sustentabilidade, sócio-diretor da CT&amp;I e Byocoin Serviços Ecossistêmicos</p>
@@ -231,7 +227,7 @@
                                 <div class="col-12 col-md-2 mt-1">18h</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Papel e deveres do acionista de referência</p>
-                                    <p class="desc"> - Camilo Marcantonio, sócio fundador e gestor da Charles River Capital</p>
+                                    <p class="desc"> - Camilo Marcantonio, sócio fundador e gestor de investimentos da Charles River Capital</p>
                                     <p class="desc"> - Brunella Isper J. Gomide, diretora de Investimentos da Abrdn</p>
                                     <p class="desc"> - Moderação: Daniel Alves Ferreira, sócio de Alves Ferreira e Mesquita Sociedade de Advogados</p>
                                     <p class="flag presencial">Presencial</p>
@@ -302,8 +298,8 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">9h10</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Direitos humanos na estratégia das organizações</p>
-                                    <p class="desc"> - <em>A definir</em></p>
+                                    <p class="title">Novos laços sociais: a construção de redes</p>
+                                    <p class="desc"> - Maria Homem, psicanalista</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -341,7 +337,9 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">10h55</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Olhando para o final da cadeia: os <em>no-holders</em></p>
+                                    <p class="title">Olhando para o final da cadeia: os "<em>noholders</em>"</p>
+                                    <p class="desc">Frederico Gonçalves, CEO da DPA Brasil</p>
+                                    <p class="desc">Dora Ferreira, Co-Founder & CMO da Meu Chapa</p>
                                     <p class="desc">Moderação: João Biarari, founder e CEO da Meu Chapa</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
@@ -359,6 +357,9 @@
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Giovanna Meneghel, CEO e co-fundadora da Nude</p>
                                         <p class="desc"> - Lívia Brando, conselheira da Nude e sócia-diretora de Venture Capital da Vox Capital.</p>
+                                        <p class="desc"> - Moderação: Bruno Okamoto Ramos, CoFounder and Chairman of
+                                            EUNERD, Coordinator of IBGC Startups Commission and content
+                                            creator of A nova economia do Micro-SaaS</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Pantys</h3>
@@ -370,8 +371,7 @@
                                     <h3 class="topic mt-4">Linker</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Ingrid Barth, COO do Linker</p>
-                                        <p class="desc"> - Moderação: Marcela Flores, diretora presidente da ANPEI e conselheira
-                                            deliberativa do SEBRAE Nacional e SEBRAE São Paulo</p>
+                                        <p class="desc"> - Frederico Braga, CFO da Omie</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Muda meu Mundo</h3>
@@ -425,14 +425,16 @@
 
                                     <h3 class="topic mt-4">Agricultura regenerativa: novas soluções e o papel estratégico do país</h3>
                                     <div class="topic-container b-gray py-2">
-                                        <p class="desc"> - Moderação: Tarcila Ursini, conselheira Independente (eB Capital, Vivara,
-                                            Agrogalaxy, Korin), Sistema B/Blab; Ethos, ICCB, Chapter Zero IBGC/FEM.
-                                            Professora ESG e Sustentabilidade no IBGC</p>
+                                        <p class="desc"> - Maurício Schneider, CEO da Solubio</p>
+                                        <p class="desc"> - Moderação: Tconselheira independente (eB Capital, Vivara,
+                                            Agrogalaxy, Korin), atua também no Sistema B/Blab, Ethos, ICCB, Chapter
+                                            Zero Brazil e FEM e professora de ESG e sustentabilidade no IBGC</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Transição Ecológica, comportamento e circularidade</h3>
                                     <div class="topic-container b-gray py-2">
-                                        <p class="desc"> - JRicardo Mussa, CEO da Raízen S/A</p>
+                                        <p class="desc"> - Ricardo Mussa, CEO da Raízen S/A</p>
+                                        <p class="desc"> - Suzana Kahn, diretora da COPPE/UFRJ</p>
                                         <p class="desc"> - Moderação: Anelise Lara, conselheira independente da TotalEnergies</p>
                                     </div>
 
@@ -467,6 +469,7 @@
                                     <p class="desc"> - Fernando L. Alberto, vice-presidente do Conselho de Administração do
                                         Grupo Fleury, coordenador da Comissão de Saúde e membro da Comissão
                                         Conselho do Futuro do IBGC</p>
+                                    <p class="desc"> - Glória Guimarães, Presidente do Conselho de Administração do AYO Group</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -521,7 +524,7 @@
 
             </div>
 
-            <small>Programação sujeita a alterações sem aviso prévio. Breakout sessions, masterclasses e feira de negócios só estão acessíveis na modalidade presencial. Sessões plenárias terão tradução simultânea inglês-português e libras.</small>
+            <small>Programação sujeita a alterações sem aviso prévio. Breakout sessions, masterclasses e feira de negócios só estarão acessíveis na modalidade presencial. Sessões plenárias terão tradução simultânea inglês-português e libras.</small>
 
             <div class="col-12 text-center mt-5">
                 <a href="mailto:paula.scalco@ibgc.org.br" class="cta-corporativa">Inscrição corporativa de grupos. Solicite sua proposta</a>
