@@ -60,6 +60,12 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/ada-mota-12688415/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-AndreCoutinho.png',
+            'name' => 'Andre Coutinho',
+            'position' => 'Sócio-líder de Advisory da KPMG no Brasil e na América do Sul ',
+            'linkedin' => 'https://www.linkedin.com/in/andr%C3%A9-coutinho-3232a9/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-AleliseLara.png',
             'name' => 'Anelise Lara',
             'position' => 'Conselheira independente da TotalEnergies',
@@ -96,15 +102,27 @@ function ibgc_get_speakers()
             'linkedin' => 'http://www.linkedin.com/in/andrezarocha'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-ArthurDamasceno.png',
+            'name' => 'Artur Damasceno',
+            'position' => 'Fundador e curador da CarbonCreditMarkets.com; consultor na Damasceno & Oliva Consulting',
+            'linkedin' => 'https://www.linkedin.com/in/arturdamasceno/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-BrunellaIsper.png',
             'name' => 'Brunella Isper J. Gomide',
             'position' => 'Diretora de Investimentos da Abrdn',
             'linkedin' => ''
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-BrunoOkamoto.png',
+            'name' => 'Bruno Okamoto Ramos',
+            'position' => '<em>CoFounder</em> and <em>chairman</em> of EUNERD, <em>coordinator of</em> IBGC Startups Commission and <em>content creator</em> of A nova economia do Micro-SaaS',
+            'linkedin' => 'https://www.linkedin.com/in/brunomicrosaas/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-CamiloMarcantonio.png',
             'name' => 'Camilo Marcantonio',
-            'position' => 'sócio fundador e gestor da Charles River Capital',
+            'position' => 'Sócio fundador e gestor da Charles River Capital',
             'linkedin' => 'https://www.linkedin.com/in/camilomarcantonio/'
         ],
         [
@@ -112,6 +130,18 @@ function ibgc_get_speakers()
             'name' => 'Cezar Taurion',
             'position' => 'Chief Strategy Officer (CSO) da Redcore',
             'linkedin' => 'https://www.linkedin.com/in/ctaurion/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-ClaudiaElisa.png',
+            'name' => 'Claudia Elisa Soares',
+            'position' => 'Conselheira do IBGC, da Camil Alimentos, da BP São Paulo e presidente do conselho do Grupo Cassol',
+            'linkedin' => 'https://www.linkedin.com/in/claudia-elisa-ccie/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-ClaudiaPitta.png',
+            'name' => 'Claudia Pitta',
+            'position' => 'Evolure Consultoria, Partner. IBGC, Board Member',
+            'linkedin' => 'https://www.linkedin.com/in/claudia-elisa-ccie/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/cristiana-pereira-foto-congresso.png',
@@ -138,10 +168,28 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/danielizzo/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DanielMaranhao.png',
+            'name' => 'Daniel Maranhão',
+            'position' => 'CEO da Grant Thornton Brasil',
+            'linkedin' => 'https://www.linkedin.com/in/daniel-maranh%C3%A3o/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DeborahWright.png',
+            'name' => 'Deborah Wright',
+            'position' => 'Conselheira de administração do IBGC',
+            'linkedin' => 'https://www.linkedin.com/in/deborah-patricia-wright-17085a21/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DenisePavarina.png',
             'name' => 'Denise Pavarina',
             'position' => 'Conselheira do Banco Bradesco S.A.',
             'linkedin' => 'https://www.linkedin.com/in/denise-pavarina-983ab1212/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-DoraFerreira.png',
+            'name' => 'Dora Ferreira',
+            'position' => '<em>Co-Founder</em> & CMO da Meu Chapa',
+            'linkedin' => 'https://www.linkedin.com/in/dora-ferreira-4330585a/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/edgard.png',
@@ -186,10 +234,22 @@ function ibgc_get_speakers()
             'linkedin' => ''
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-FernandoAlberto.png',
+            'name' => 'Fernando L. Alberto',
+            'position' => 'Vice-presidente do conselho de administração do Grupo Fleury, coordenador da Comissão de Saúde e membro da Comissão Conselho do Futuro do IBGC',
+            'linkedin' => 'https://www.linkedin.com/in/flalberto/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/fernando-mode-foto-congresso.png',
             'name' => 'Fernando Modé',
             'position' => 'CEO do Grupo Boticário',
             'linkedin' => 'https://www.linkedin.com/in/fernando-mode/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-FernandoWagner.png',
+            'name' => 'Fernando Wagner da Silva',
+            'position' => 'Sócio e Head de Venture Capital na Crescera Capital',
+            'linkedin' => 'https://www.linkedin.com/in/fernandowagner/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/flavia-mouta-foto-congresso.png',
@@ -198,10 +258,16 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/flavia-mouta-2a1b31122/'
         ],
         [
-            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-FernandoWagner.png',
-            'name' => 'Fernando Wagner da Silva',
-            'position' => 'Sócio e Head de Venture Capital na Crescera Capital',
-            'linkedin' => 'https://www.linkedin.com/in/fernandowagner/'
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-FredericoBraga.png',
+            'name' => 'Frederico Braga',
+            'position' => 'CFO da Omie',
+            'linkedin' => 'https://www.linkedin.com/in/frederico-braga-9b0225/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-FredericoGoncalves.png',
+            'name' => 'Frederico Gonçalves',
+            'position' => 'CEO da DPA Brasil',
+            'linkedin' => 'https://www.linkedin.com/in/fredgoncalves/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/gabriela-baumgart-foto-congresso.png',
@@ -232,6 +298,12 @@ function ibgc_get_speakers()
             'name' => 'Glaucy Bocci',
             'position' => 'Senior Client Partner & Board Services COE Member da Korn Ferry',
             'linkedin' => 'https://www.linkedin.com/in/glaucybocci/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-GloriaGuimaraes.png',
+            'name' => 'Glória Guimarães',
+            'position' => 'Presidente do conselho de administração do AYO Group',
+            'linkedin' => 'https://www.linkedin.com/in/gloria-guimaraes/'
         ],
         // [
         //     'picture' => get_template_directory_uri() . '/assets/img/2023/guilherme-fernandes-foto-congresso.png',
@@ -268,6 +340,12 @@ function ibgc_get_speakers()
             'name' => 'João Kohn',
             'position' => 'Diretor geral Betterfly Brasil',
             'linkedin' => 'https://www.linkedin.com/in/joaokohn/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-JoaoPedroNascimento.png',
+            'name' => 'João Pedro Nascimento',
+            'position' => 'Presidente da CVM',
+            'linkedin' => 'https://www.linkedin.com/in/jo%C3%A3o-pedro-nascimento-802b0b40/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/joaquim-rubens-foto-congresso.png',
@@ -338,16 +416,40 @@ function ibgc_get_speakers()
             'linkedin' => ''
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-MariaHomem.png',
+            'name' => 'Maria Homem',
+            'position' => 'Psicanalista',
+            'linkedin' => 'https://www.linkedin.com/in/maria-homem-49137a1ba/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-MarianaBarbosa.png',
             'name' => 'Mariana Barbosa',
             'position' => 'Colunista do jornal O Globo',
             'linkedin' => 'https://www.linkedin.com/in/marianaccbarbosa/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-MauricioSchneider.png',
+            'name' => 'Maurício Schneider',
+            'position' => 'CEO da Solubio',
+            'linkedin' => 'https://www.linkedin.com/in/mauricioschneider/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-MauroRodriguesdaCunha.png',
             'name' => 'Mauro Rodrigues da Cunha',
             'position' => 'Membro do conselho de administração da Embraer, Klabin, AES e Hypera Pharma; ex-presidente da Amec e do conselho de administração do IBGC',
             'linkedin' => 'https://www.linkedin.com/in/mauro-rodrigues-da-cunha-nacd-dc-1114b28/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-Natalie.png',
+            'name' => 'Natalie Unterstell',
+            'position' => 'Presidente do Instituto Talanoa',
+            'linkedin' => 'https://www.linkedin.com/in/unterstellnatalie/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-Nelmara.png',
+            'name' => 'Nelmara Arbex',
+            'position' => 'Sócia-líder de ESG da KPMG no Brasil e na América do Sul',
+            'linkedin' => 'https://www.linkedin.com/in/nelmara-arbex/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/otavio-yazbek-foto-congresso.png',
@@ -374,6 +476,18 @@ function ibgc_get_speakers()
             'linkedin' => 'https://linkedin.com/in/r-edward-freeman-98b8897'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-RicardoMussa.png',
+            'name' => 'Ricardo Mussa',
+            'position' => 'CEO da Raízen S/A',
+            'linkedin' => 'https://www.linkedin.com/in/ricardomussa/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-RicardoSantana.png',
+            'name' => 'Ricardo Santana Diniz',
+            'position' => 'Sócio KPMG Lighthouse (CoE Data & AI)',
+            'linkedin' => 'https://www.linkedin.com/in/ricardodinizmerrillynch/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/ricardo.png',
             'name' => 'Ricardo Young',
             'position' => 'Empresário, consultor de sustentabilidade e sócio-diretor da CT&I Brasil e da Byocoin',
@@ -398,10 +512,28 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/sandromagaldi/'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-SergioAll.png',
+            'name' => 'Sérgio All',
+            'position' => '<em>Chairman</em> e Fundador na Conta Black',
+            'linkedin' => 'https://www.linkedin.com/in/sergioall/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-SuzanaKahn.png',
+            'name' => 'Suzana Kahn',
+            'position' => 'Diretora da COPPE/UFRJ',
+            'linkedin' => 'https://www.linkedin.com/in/suzana-kahn-ribeiro-6964451a/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/tania-cosentino-foto-congresso.png',
             'name' => 'Tânia Cosentino',
             'position' => 'Presidente da Microsoft Brasil',
             'linkedin' => 'https://www.linkedin.com/in/tania-cosentino-18bb236/'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-TarcilaUrsini.png',
+            'name' => 'Tarcila Ursini',
+            'position' => 'Conselheira independente (eB Capital, Vivara, Agrogalaxy, Korin), atua também no Sistema B/Blab, Ethos, ICCB, Chapter Zero Brazil e FEM e professora de ESG e sustentabilidade no IBGC',
+            'linkedin' => 'https://www.linkedin.com/in/tarcila-ursini-892b4716/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/vicky.png',
@@ -416,10 +548,22 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/vmsoares'
         ],
         [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-VivianeRomeiro.png',
+            'name' => 'Viviane Romeiro',
+            'position' => 'Diretora de Clima, Energia e Finanças Sustentáveis no CEBDS',
+            'linkedin' => 'https://www.linkedin.com/in/viviane-romeiro/'
+        ],
+        [
             'picture' => get_template_directory_uri() . '/assets/img/2023/william-ling-foto-congresso.png',
             'name' => 'William Ling',
             'position' => 'Presidente do conselho de administração (PCA) da Évora S.A.',
             'linkedin' => 'https://www.linkedin.com/in/william-ling-23'
+        ],
+        [
+            'picture' => get_template_directory_uri() . '/assets/img/2023/william-ling-foto-congresso.png',
+            'name' => 'Yoab Bitran',
+            'position' => '<em>Head of</em> LRN Latin America',
+            'linkedin' => 'https://www.linkedin.com/in/yoabbitran/'
         ],
     ];
 }
