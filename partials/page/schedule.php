@@ -76,7 +76,6 @@
                                     <p class="title"><em>Masterclasses</em></p>
                                     <p class="desc"> - B3 - Do Código aos Segmentos de Listagem, avançando a governança corporativa nas empresas brasileiras</p>
                                     <p class="desc"> - KPMG - Evolução e transformação das funções de GRC com uso de tecnologia</p>
-                                    <p class="desc"> - Vale - </p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
