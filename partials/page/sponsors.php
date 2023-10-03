@@ -82,14 +82,17 @@
                 <a href="https://www.itausa.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoitausa-patrocinio-plus.png' ?>" alt="">
                 </a>
+                <a href="https://www.lcrcapital.com/br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoLCR-patrocinio-plus.png' ?>" alt="">
+                </a>
                 <a href="https://morrowsodali.com/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressomorrow-patrocinio-plus.png' ?>" alt="">
                 </a>
                 <a href="https://www.talentoincluir.com.br/" target="_blank" rel="noopener noreferrer">
                     <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressotalento-patrocinio-plus.png' ?>" alt="">
                 </a>
-                <a href="https://www.lcrcapital.com/br/" target="_blank" rel="noopener noreferrer">
-                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoLCR-patrocinio-plus.png' ?>" alt="">
+                <a href="https://www.talentoincluir.com.br/" target="_blank" rel="noopener noreferrer">
+                    <img src="<?= get_template_directory_uri() . '/assets/img/2023/congressoreport-patrocinio-plus.png' ?>" alt="">
                 </a>
 
             </div>
