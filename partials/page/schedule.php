@@ -73,7 +73,10 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">13h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title"><em>Masterclasses (A definir)</em></p>
+                                    <p class="title"><em>Masterclasses</em></p>
+                                    <p class="desc"> - B3 - Do Código aos Segmentos de Listagem, avançando a governança corporativa nas empresas brasileiras</p>
+                                    <p class="desc"> - KPMG - Evolução e transformação das funções de GRC com uso de tecnologia</p>
+                                    <p class="desc"> - Vale - </p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -147,6 +150,7 @@
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Viviane Romeiro, diretora de Clima, Energia e Finanças Sustentáveis no
                                             CEBDS</p>
+                                        <p class="desc"> - Natalie Unterstell, presidente do Instituto Talanoa</p>
                                         <p class="desc"> - Moderação: Artur Damasceno, fundador e curador da
                                             CarbonCreditMarkets.com; consultor na Damasceno &amp; Oliva Consulting</p>
                                     </div>
@@ -163,6 +167,7 @@
                                     <div class="topic-container b-black py-2">
                                         <p class="desc"> - Elisa Leonel, secretária de Coordenação e Governança das Empresas
                                             Estatais</p>
+                                        <p class="desc"> - Yoab Bitran, Head of LRN Latin America</p>
                                         <p class="desc"> - Moderação: Luciana Dias, professora da FGV-Direito e sócia de L|Dias
                                             Advogados</p>
                                     </div>
@@ -274,7 +279,8 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">08h</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title">Credenciamento</p>
+                                    <p class="title"> - Credenciamento</p>
+                                    <p class="title"> - Estande IBGC: IBGC e B3 discutem o novo Código IBGC e seus impactos nas empresas listadas</p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -338,9 +344,10 @@
                                 <div class="col-12 col-md-2 mt-1">10h55</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">Olhando para o final da cadeia: os "<em>noholders</em>"</p>
-                                    <p class="desc">Frederico Gonçalves, CEO da DPA Brasil</p>
-                                    <p class="desc">Dora Ferreira, Co-Founder & CMO da Meu Chapa</p>
-                                    <p class="desc">Moderação: João Biarari, founder e CEO da Meu Chapa</p>
+                                    <p class="desc"> - Frederico Gonçalves, CEO da DPA Brasil</p>
+                                    <p class="desc"> - Rodrigo Ferreira, líder de Relações Institucionais do Grupo Gaia</p>
+                                    <p class="desc"> - Dora Ferreira, Co-Founder & CMO da Meu Chapa</p>
+                                    <p class="desc"> - Moderação: João Biarari, founder e CEO da Meu Chapa</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -366,12 +373,15 @@
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Emily Ewell, CEO &amp; co-fundadora da Pantys</p>
                                         <p class="desc"> - Maria Eduarda Camargo, COO, CFO e co-fundadora da Pantys</p>
+                                        <p class="desc"> - Moderação: Claudia Pitta, Partner da Evolure Consultoria, e Board Member do IBGC</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Linker</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Ingrid Barth, COO do Linker</p>
                                         <p class="desc"> - Frederico Braga, CFO da Omie</p>
+                                        <p class="desc"> - Moderação: Marcela Flores, diretora presidente da ANPEI e conselheira deliberativa do
+                                            SEBRAE Nacional e SEBRAE São Paulo</p>
                                     </div>
 
                                     <h3 class="topic mt-4">Muda meu Mundo</h3>
@@ -395,7 +405,11 @@
                             <div class="row schedule-item">
                                 <div class="col-12 col-md-2 mt-1">13h10</div>
                                 <div class="col-12 col-md-10">
-                                    <p class="title"><em>Masterclasses (A definir)</em></p>
+                                    <p class="title"><em>Masterclasses</em></p>
+                                    <p class="desc"> - Report - Engajando stakeholder na formulação de estratégias abertas</p>
+                                    <p class="desc"> - KPMG - ESG Strategy</p>
+                                    <p class="desc"> - Andre Coutinho, sócio-líder de Advisory da KPMG no Brasil e na América do Sul </p>
+                                    <p class="desc"> - Nelmara Arbex, sócia-líder de ESG da KPMG no Brasil e na América do Suly</p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -419,6 +433,7 @@
                                     <h3 class="topic mt-4">Bem estar, saúde mental e <em>burnout</em> digital: pautas do Conselho?</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - João Kohn, diretor geral Betterfly Brasil</p>
+                                        <p class="desc"> - Fatima Macedo, CEO e fundadora da Mental Clean</p>
                                         <p class="desc"> - Toya Lorch, sócia fundadora da Get Ahead Saúde Mental no Trabalho e sócia da Edge Desenvolvimento e Governança</p>
                                         <p class="desc"> - Moderação: Sergio Piza, sócio fundador da Piza Advisors</p>
                                     </div>
@@ -426,6 +441,7 @@
                                     <h3 class="topic mt-4">Agricultura regenerativa: novas soluções e o papel estratégico do país</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Maurício Schneider, CEO da Solubio</p>
+                                        <p class="desc"> - André Guillaumon, diretor presidente da BrasilAgro</p>
                                         <p class="desc"> - Moderação: Tconselheira independente (eB Capital, Vivara,
                                             Agrogalaxy, Korin), atua também no Sistema B/Blab, Ethos, ICCB, Chapter
                                             Zero Brazil e FEM e professora de ESG e sustentabilidade no IBGC</p>
@@ -441,6 +457,7 @@
                                     <h3 class="topic mt-4">Impacto social e ética algorítmica</h3>
                                     <div class="topic-container b-gray py-2">
                                         <p class="desc"> - Juliana Custódio, gerente geral de dados da PagBank</p>
+                                        <p class="desc"> - Sérgio All, Chairman e Fundador na Conta Black</p>
                                         <p class="desc"> - Moderação: Andreza Rocha, fundadora e diretora executiva da AfrOya Tech
                                             Hub</p>
                                     </div>
@@ -470,6 +487,7 @@
                                         Grupo Fleury, coordenador da Comissão de Saúde e membro da Comissão
                                         Conselho do Futuro do IBGC</p>
                                     <p class="desc"> - Glória Guimarães, Presidente do Conselho de Administração do AYO Group</p>
+                                    <p class="desc"> - Moderação: Daniel Maranhão, CEO da Grant Thornton Brasil</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -480,6 +498,8 @@
                                 <div class="col-12 col-md-10">
                                     <p class="title">Governança da inteligência artificial</p>
                                     <p class="desc"> - Cezar Taurion, Chief Strategy Officer (CSO) da Redcore</p>
+                                    <p class="desc"> - Ana Zamper, Fundadora da ByAZ e membro da comissão de Inovação do IBGC</p>
+                                    <p class="desc"> - Moderação: Ricardo Santana Diniz, sócio da KPMG Lighthouse (CoE Data & AI)</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>

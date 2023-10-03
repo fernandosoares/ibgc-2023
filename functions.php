@@ -141,7 +141,7 @@ function ibgc_get_speakers()
             'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-ClaudiaPitta.png',
             'name' => 'Claudia Pitta',
             'position' => 'Evolure Consultoria, Partner. IBGC, Board Member',
-            'linkedin' => 'https://www.linkedin.com/in/claudia-elisa-ccie/'
+            'linkedin' => 'https://www.linkedin.com/in/claudiapittapinheiro/'
         ],
         [
             'picture' => get_template_directory_uri() . '/assets/img/2023/cristiana-pereira-foto-congresso.png',
@@ -560,7 +560,7 @@ function ibgc_get_speakers()
             'linkedin' => 'https://www.linkedin.com/in/william-ling-23'
         ],
         [
-            'picture' => get_template_directory_uri() . '/assets/img/2023/william-ling-foto-congresso.png',
+            'picture' => get_template_directory_uri() . '/assets/img/2023/Foto-YoabBitran.png',
             'name' => 'Yoab Bitran',
             'position' => '<em>Head of</em> LRN Latin America',
             'linkedin' => 'https://www.linkedin.com/in/yoabbitran/'
