@@ -80,6 +80,7 @@
                                     <p class="desc"> - Diogo Dias, sócio-líder de Risk Advisory Solutions da KPMG no Brasil</p>
                                     <p class="desc"> - Rodrigo Bauce, sócio de riscos financeiros da KPMG no Brasil</p>
                                     <p class="desc"> - Carolina Paulino, sócia de Forensic &amp; Litigation da KPMG no Brasil</p>
+                                    <p class="desc"> - Vale - Transição energética &amp; ESG: Oportunidades e o protagonismo do setor da mineração na descarbonização</p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
