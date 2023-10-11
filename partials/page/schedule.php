@@ -76,6 +76,10 @@
                                     <p class="title"><em>Masterclasses</em></p>
                                     <p class="desc"> - B3 - Do Código aos Segmentos de Listagem, avançando a governança corporativa nas empresas brasileiras</p>
                                     <p class="desc"> - KPMG - Evolução e transformação das funções de GRC com uso de tecnologia</p>
+                                    <p class="desc"> - Fernando Lage, sócio-líder de Governança, Riscos e Compliance (GRCS) na KPMG Brasil</p>
+                                    <p class="desc"> - Diogo Dias, sócio-líder de Risk Advisory Solutions da KPMG no Brasil</p>
+                                    <p class="desc"> - Rodrigo Bauce, sócio de riscos financeiros da KPMG no Brasil</p>
+                                    <p class="desc"> - Carolina Paulino, sócia de Forensic &amp; Litigation da KPMG no Brasil</p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
@@ -296,6 +300,7 @@
                                 <div class="col-12 col-md-10">
                                     <p class="title">Liderança que inspira e engaja as novas gerações</p>
                                     <p class="desc"> - Edgar Gouveia Jr., presidente da Epic Journey e fundador da Live Lab</p>
+                                    <p class="desc"> - Rhenan Cauê, estudante de ensino médio</p>
                                     <p class="flag presencial">Presencial</p>
                                     <p class="flag online">On-line</p>
                                 </div>
@@ -330,7 +335,7 @@
                                 <div class="col-12 col-md-2 mt-1">10h25</div>
                                 <div class="col-12 col-md-10">
                                     <p class="title">ESG &amp; <em>Stewardship</em>: o papel dos investidores</p>
-                                    <p class="desc"> - Denise Pavarina, conselheira do Banco Bradesco S.A.</p>
+                                    <p class="desc"> - Denise Pavarina,conselheira do Banco Bradesco S.A., da Solví Essencis Ambiental S.A., e Vice-Chair da TCFD</p>
                                     <p class="desc"> - Daniel Izzo, CEO da Vox Capital</p>
                                     <p class="desc"> - Moderação: Mauro Rodrigues da Cunha, membro do conselho de
                                         administração da Embraer, Klabin, AES e Hypera Pharma; ex-presidente da
@@ -409,6 +414,7 @@
                                     <p class="desc"> - KPMG - ESG Strategy</p>
                                     <p class="desc"> - Andre Coutinho, sócio-líder de Advisory da KPMG no Brasil e na América do Sul </p>
                                     <p class="desc"> - Nelmara Arbex, sócia-líder de ESG da KPMG no Brasil e na América do Suly</p>
+                                    <p class="desc"> - Daniel Motta, Managing Partner e CEO da BMI - Blue Management Institute</p>
                                     <p class="flag presencial">Presencial</p>
                                 </div>
                             </div>
